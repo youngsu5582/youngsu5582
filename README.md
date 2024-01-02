@@ -27,7 +27,7 @@
 <h1 align="center"> 📢 Currently Processing 📢 </h3>
 
 <p align="center">
-  <a href="https://www.notion.so/ea9c581cf4ff4b2fb953316a6cafef8c?pvs=4#55f01d0630254b6eae0852c35f00ee06"><img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg" /><a/>
+  <a href="[https://www.notion.so/ea9c581cf4ff4b2fb953316a6cafef8c?pvs=4#55f01d0630254b6eae0852c35f00ee06](https://www.notion.so/ef563411f4dd47eab8a4c1d47b75597c)"><img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg" /><a/>
 </p>
 
 <!--
