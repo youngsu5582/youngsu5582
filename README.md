@@ -10,13 +10,12 @@
 
 # 📌 Stacks 📌
 
-
-![Typescript Badge](https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=Typescript&logoColor=white)
-![Nest.js Badge](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=NestJS&logoColor=white)
-![Express.js Badge](https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white)
-![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
-![Redis_Badge](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis&logoColor=white)
-![Docker Badge](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white)
+![Java Badge](https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white)
+![SpringBoot Badge](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=SpringBoot&logoColor=white)
+![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white)
+![Amazon AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=AWS&logoColor=white)
+![Github Action](https://img.shields.io/badge/GitHubActions-2088FF?style=flat&logo=Actions&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white)
 
 ![Youngsu5582's GitHub stats](https://github-readme-stats.vercel.app/api?username=youngsu5582&show_icons=true&theme=transparent)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=i894)](https://solved.ac/i894/)  
