@@ -26,7 +26,7 @@
 <h1 align="center"> 📢 Currently Processing 📢 </h3>
 
 <p align="center">
-  <a href="https://www.notion.so/ef563411f4dd47eab8a4c1d47b75597c"><img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg" /><a/>
+  <a href="https://comet-pram-809.notion.site/1-c02c56c3e182473f80ace36afb79760a?pvs=74"><img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg" /><a/>
 </p>
 
 <!--
