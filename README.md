@@ -23,11 +23,7 @@
 <br />
 <br />
 
-<h1 align="center"> 📢 Currently Processing 📢 </h3>
-
-<p align="center">
-  <a href="https://comet-pram-809.notion.site/1-c02c56c3e182473f80ace36afb79760a?pvs=74"><img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg" /><a/>
-</p>
+![Velog GitHub stats](https://velog-github-badge.vercel.app/badge/dragonsu)
 
 <!--
 **youngsu5582/youngsu5582** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
