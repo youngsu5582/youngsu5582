@@ -1,14 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Waving)
-
-# 😉 Contact Me
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyoungsu5582&count_bg=%23EEEE62&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visites&edge_flat=false)](https://hits.seeyoufarm.com)
-[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/0_so00/)](https://www.instagram.com/0_so00/)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yuyoungsu5582@gmail.com)](mailto:yuyoungsu5582@gmail.com)
-[![Velog Badge](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white&link=https://velog.io/@dragonsu)](https://velog.io/@dragonsu)
-
-
-# 📌 Stacks 📌
+<h3 align="left">Stacks </h3>
 
 ![Java Badge](https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white)
 ![SpringBoot Badge](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=SpringBoot&logoColor=white)
@@ -25,17 +15,9 @@
 
 ![Velog GitHub stats](https://velog-github-badge.vercel.app/badge/dragonsu)
 
-<!--
-**youngsu5582/youngsu5582** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="left">I'm Doing🏃 </h3>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [초록 스터디](https://cho-log.github.io/) 리뷰어 활동 - 2025.01 ~
+  - `학습 테스트로 배우는 스프링 기초` 에서 [리뷰한 목록](https://github.com/next-step/spring-basic-roomescape-playground/pulls?q=is%3Apr+reviewed-by%3Ayoungsu5582+)
+- 사이드 프로젝트 [카드와 간편결제로 가능한 로또 서비스](https://github.com/youngsu5582/lotto) - 2024.12 ~
+- 빙글(https://vingle.kr/) 크롤링 아르바이트 - 2025.01 ~ 
