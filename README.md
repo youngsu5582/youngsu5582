@@ -28,3 +28,5 @@
   - [카드와 간편결제로 가능한 로또 서비스](https://github.com/youngsu5582/lotto)(2024.12~)
 - 빙글 크롤링 아르바이트(2025.01~) 
   - [사이트 주소](https://vingle.kr/)
+- 알고리즘 스터디 알무몰(2025.01~)
+  - [개인 풀이 기록 저장소](https://github.com/hjk0761/Almumol/tree/main/youngsu5582)
