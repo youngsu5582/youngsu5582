@@ -25,7 +25,7 @@
 - 초록 스터디 리뷰어(2025.01~)
   - `학습 테스트로 배우는 스프링 기초` [리뷰 목록](https://github.com/next-step/spring-basic-roomescape-playground/pulls?q=is%3Apr+reviewed-by%3Ayoungsu5582+)
 - 사이드 프로젝트
-  - [카드와 간편결제로 가능한 로또 서비스](https://github.com/youngsu5582/lotto)(2024.12~)
+  - [카드와 간편결제로 가능한 로또 서비스](https://github.com/youngsu5582/lotto) - [배포된 서비스 주소](https://lotto.web.youngsu5582.life/)
 - 빙글 크롤링 아르바이트(2025.01~) 
   - [사이트 주소](https://vingle.kr/)
 - 알고리즘 스터디 알무몰(2025.01~)
