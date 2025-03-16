@@ -1,0 +1,50 @@
+name: Update README
+
+on:
+  schedule:
+    - cron: '0 18 * * *'
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+
+      - name: Install dependencies
+        run: |
+          pip install --upgrade pip
+          pip install -r scripts/requirements.txt
+
+      - name: Generate Blog section Markdown
+        env:
+          GA_SERVICE_ACCOUNT_JSON: ${{ secrets.GA_SERVICE_ACCOUNT_JSON }}
+          GA_PROPERTY_ID: ${{ secrets.GA_PROPERTY_ID }}
+        run: python scripts/generate-blog-readme.py > blog_section.md
+
+      - name: Replace README Blog section
+        run: |
+          awk '/## 블로그/{print; system("cat blog_section.md"); exit}1' README.md > tmp.md
+          mv tmp.md README.md
+
+      - name: Commit & Push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          if ! git diff --cached --quiet; then
+            DATE_STR=$(date '+%Y-%m-%d')
+            git commit -m "블로그 내용 갱신 $DATE_STR"
+            git push
+          else
+            echo "No changes to commit."
+          fi

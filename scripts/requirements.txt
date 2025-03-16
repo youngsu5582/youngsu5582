@@ -1,0 +1,5 @@
+feedparser==6.0.10
+beautifulsoup4==4.12.2
+requests==2.31.0
+google-analytics-data==0.14.0
+html2image==2.0.5
