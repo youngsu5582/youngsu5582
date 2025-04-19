@@ -21,7 +21,7 @@
       </a>
     </td>
     <td style="text-align:center; vertical-align:middle; border-bottom:1px solid #87CEFA; font-weight:bold;">
-      Yesterday: <strong>3</strong> | Total: <strong>817</strong>
+      Yesterday: <strong>1</strong> | Total: <strong>821</strong>
     </td>
   </tr>
   <tr>
@@ -33,16 +33,16 @@
           <th align="center">Date</th>
         </tr>
         <tr>
+          <td align="center"><a href="https://youngsu5582.life//posts/oom-killer,-heap-memory,-heapdump/">oom killer, heap memory, heapdump</a></td>
+          <td align="center">2025-04-20</td>
+        </tr>
+        <tr>
           <td align="center"><a href="https://youngsu5582.life//posts/%EB%8F%88%EC%9C%BC%EB%A1%9C-%EC%8B%9C%EA%B0%84-%EC%82%AC%EA%B8%B0/">돈으로 시간을 사기 - 부제 : openai 통한 게시글 소개글 및 섬네일 자동 생성 스크립트</a></td>
           <td align="center">2025-03-22</td>
         </tr>
         <tr>
           <td align="center"><a href="https://youngsu5582.life//posts/3%EA%B0%9C%EC%9B%94-%EA%B0%84%EC%9D%98-%EC%B7%A8%EC%A4%80%EC%9D%84-%EB%81%9D%EB%82%B4%EB%A9%B0/">3개월 간의 취준을 끝내며</a></td>
           <td align="center">2025-03-19</td>
-        </tr>
-        <tr>
-          <td align="center"><a href="https://youngsu5582.life//posts/%ED%94%84%EB%A6%AC%ED%8B%B0%EC%96%B4%EB%A1%9C%EB%A7%8C-%EB%B0%B0%ED%8F%AC%ED%95%B4%EB%B3%B4%EA%B8%B0/">프리티어로만 배포해보기</a></td>
-          <td align="center">2025-03-09</td>
         </tr>
       </table>
     </td>
