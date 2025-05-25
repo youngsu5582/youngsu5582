@@ -21,7 +21,7 @@
       </a>
     </td>
     <td style="text-align:center; vertical-align:middle; border-bottom:1px solid #87CEFA; font-weight:bold;">
-      Yesterday: <strong>1</strong> | Total: <strong>909</strong>
+      Yesterday: <strong>0</strong> | Total: <strong>912</strong>
     </td>
   </tr>
   <tr>
@@ -33,16 +33,16 @@
           <th align="center">Date</th>
         </tr>
         <tr>
+          <td align="center"><a href="https://youngsu5582.life//posts/%EC%82%AC%EC%9A%A9%ED%95%98%EC%A7%80-%EC%95%8A%EB%8A%94-ENUM-%EA%B0%92-%EB%8C%80%EC%9D%91,Interface-%ED%86%B5%ED%95%9C-%EC%A4%91%EB%B3%B5-%EC%BD%94%EB%93%9C-%EC%A0%9C%EA%B1%B0/">사용하지 않는 ENUM 값 대응 , Interface 를 통한 중복 코드 제거</a></td>
+          <td align="center">2025-05-26</td>
+        </tr>
+        <tr>
           <td align="center"><a href="https://youngsu5582.life//posts/oom-killer,-heap-memory,-heapdump/">oom killer, heap memory, heapdump</a></td>
           <td align="center">2025-04-20</td>
         </tr>
         <tr>
           <td align="center"><a href="https://youngsu5582.life//posts/%EB%8F%88%EC%9C%BC%EB%A1%9C-%EC%8B%9C%EA%B0%84-%EC%82%AC%EA%B8%B0/">돈으로 시간을 사기 - 부제 : openai 통한 게시글 소개글 및 섬네일 자동 생성 스크립트</a></td>
           <td align="center">2025-03-22</td>
-        </tr>
-        <tr>
-          <td align="center"><a href="https://youngsu5582.life//posts/3%EA%B0%9C%EC%9B%94-%EA%B0%84%EC%9D%98-%EC%B7%A8%EC%A4%80%EC%9D%84-%EB%81%9D%EB%82%B4%EB%A9%B0/">3개월 간의 취준을 끝내며</a></td>
-          <td align="center">2025-03-19</td>
         </tr>
       </table>
     </td>
