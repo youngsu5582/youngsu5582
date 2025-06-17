@@ -33,16 +33,16 @@
           <th align="center">Date</th>
         </tr>
         <tr>
+          <td align="center"><a href="https://youngsu5582.life//posts/%EC%82%AC%EC%9A%A9%ED%95%98%EB%8A%94-Jackson-%EC%84%A4%EC%A0%95%EB%93%A4-%EC%A0%95%EB%A6%AC/">사용하는 Jackson의 설정 및 기능 정리</a></td>
+          <td align="center">2025-06-17</td>
+        </tr>
+        <tr>
           <td align="center"><a href="https://youngsu5582.life//posts/%EC%98%88%EC%99%B8-%EA%B9%8A%EA%B2%8C-%EC%82%B4%ED%8E%B4%EB%B3%B4%EA%B8%B0-%EC%98%88%EC%99%B8-%EB%8F%99%EC%A0%81%EC%9C%BC%EB%A1%9C-%EB%8D%98%EC%A7%80%EA%B8%B0/">예외 깊게 살펴보기, 예외 동적으로 던지기</a></td>
           <td align="center">2025-05-31</td>
         </tr>
         <tr>
           <td align="center"><a href="https://youngsu5582.life//posts/%EC%82%AC%EC%9A%A9%ED%95%98%EC%A7%80-%EC%95%8A%EB%8A%94-ENUM-%EA%B0%92-%EB%8C%80%EC%9D%91,Interface-%ED%86%B5%ED%95%9C-%EC%A4%91%EB%B3%B5-%EC%BD%94%EB%93%9C-%EC%A0%9C%EA%B1%B0/">사용하지 않는 ENUM 값 대응 , Interface 를 통한 중복 코드 제거</a></td>
           <td align="center">2025-05-26</td>
-        </tr>
-        <tr>
-          <td align="center"><a href="https://youngsu5582.life//posts/oom-killer,-heap-memory,-heapdump/">oom killer, heap memory, heapdump</a></td>
-          <td align="center">2025-04-20</td>
         </tr>
       </table>
     </td>
