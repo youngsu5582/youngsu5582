@@ -32,7 +32,7 @@
           <th align="center">Title</th>
           <th align="center">Date</th>
         </tr>
-        <tr>          
+        <tr>
           <td align="center"><a href="https://youngsu5582.life//posts/ai-tech-usage-summary-thoughts-ko/">개발자라면 꼭 알아야 할 AI 기술 활용법 영상 정리 및 간단한 사담</a></td>
           <td align="center">2025-08-20</td>
         </tr>
