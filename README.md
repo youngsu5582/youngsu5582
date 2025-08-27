@@ -32,8 +32,8 @@
           <th align="center">Title</th>
           <th align="center">Date</th>
         </tr>
-        <tr>
-          <td align="center"><a href="https://youngsu5582.life//posts/%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%9D%BC%EB%A9%B4-%EA%BC%AD-%EC%95%8C%EC%95%84%EC%95%BC-%ED%95%A0-AI-%EA%B8%B0%EC%88%A0-%ED%99%9C%EC%9A%A9%EB%B2%95-%EC%98%81%EC%83%81%EC%97%90-%EB%8C%80%ED%95%9C-%EC%A0%95%EB%A6%AC-%EB%B0%8F-%EA%B0%84%EB%8B%A8%ED%95%9C-%EC%82%AC%EB%8B%B4/">개발자라면 꼭 알아야 할 AI 기술 활용법 영상 정리 및 간단한 사담</a></td>
+        <tr>          
+          <td align="center"><a href="https://youngsu5582.life//posts/ai-tech-usage-summary-thoughts-ko/">개발자라면 꼭 알아야 할 AI 기술 활용법 영상 정리 및 간단한 사담</a></td>
           <td align="center">2025-08-20</td>
         </tr>
         <tr>
