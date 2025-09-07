@@ -21,7 +21,7 @@
       </a>
     </td>
     <td style="text-align:center; vertical-align:middle; border-bottom:1px solid #87CEFA; font-weight:bold;">
-      Yesterday: <strong>0</strong> | Total: <strong>1166</strong>
+      Yesterday: <strong>0</strong> | Total: <strong>1167</strong>
     </td>
   </tr>
   <tr>
@@ -33,16 +33,16 @@
           <th align="center">Date</th>
         </tr>
         <tr>
+          <td align="center"><a href="https://youngsu5582.life//posts/partitioning-in-postgresql/">파티셔닝 톺아보기 in PostgreSQL</a></td>
+          <td align="center">2025-09-07</td>
+        </tr>
+        <tr>
           <td align="center"><a href="https://youngsu5582.life//posts/ai-tech-usage-summary-thoughts-ko/">개발자라면 꼭 알아야 할 AI 기술 활용법 영상 정리 및 간단한 사담</a></td>
           <td align="center">2025-08-20</td>
         </tr>
         <tr>
           <td align="center"><a href="https://youngsu5582.life//posts/%EC%82%AC%EC%9A%A9%ED%95%98%EB%8A%94-Jackson-%EC%84%A4%EC%A0%95%EB%93%A4-%EC%A0%95%EB%A6%AC/">사용하는 Jackson의 설정 및 기능 정리</a></td>
           <td align="center">2025-06-17</td>
-        </tr>
-        <tr>
-          <td align="center"><a href="https://youngsu5582.life//posts/%EC%98%88%EC%99%B8-%EA%B9%8A%EA%B2%8C-%EC%82%B4%ED%8E%B4%EB%B3%B4%EA%B8%B0-%EC%98%88%EC%99%B8-%EB%8F%99%EC%A0%81%EC%9C%BC%EB%A1%9C-%EB%8D%98%EC%A7%80%EA%B8%B0/">예외 깊게 살펴보기, 예외 동적으로 던지기</a></td>
-          <td align="center">2025-05-31</td>
         </tr>
       </table>
     </td>
