@@ -33,16 +33,16 @@
           <th align="center">Date</th>
         </tr>
         <tr>
+          <td align="center"><a href="https://youngsu5582.life//posts/rabbitmq-vs-kafka">RabbitMQ VS Kafka</a></td>
+          <td align="center">2025-09-13</td>
+        </tr>
+        <tr>
           <td align="center"><a href="https://youngsu5582.life//posts/partitioning-in-postgresql/">파티셔닝 톺아보기 in PostgreSQL</a></td>
           <td align="center">2025-09-07</td>
         </tr>
         <tr>
           <td align="center"><a href="https://youngsu5582.life//posts/ai-tech-usage-summary-thoughts-ko/">개발자라면 꼭 알아야 할 AI 기술 활용법 영상 정리 및 간단한 사담</a></td>
           <td align="center">2025-08-20</td>
-        </tr>
-        <tr>
-          <td align="center"><a href="https://youngsu5582.life//posts/%EC%82%AC%EC%9A%A9%ED%95%98%EB%8A%94-Jackson-%EC%84%A4%EC%A0%95%EB%93%A4-%EC%A0%95%EB%A6%AC/">사용하는 Jackson의 설정 및 기능 정리</a></td>
-          <td align="center">2025-06-17</td>
         </tr>
       </table>
     </td>
