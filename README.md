@@ -21,7 +21,7 @@
       </a>
     </td>
     <td style="text-align:center; vertical-align:middle; border-bottom:1px solid #87CEFA; font-weight:bold;">
-      Yesterday: <strong>0</strong> | Total: <strong>1185</strong>
+      Yesterday: <strong>0</strong> | Total: <strong>1188</strong>
     </td>
   </tr>
   <tr>
@@ -50,7 +50,7 @@
   <tr>
     <td colspan="2" style="padding-top:14px;">
       <strong>🔖 Top Tags</strong><br/>
-      <a href="https://youngsu5582.life/tags/%EC%9A%B0%ED%85%8C%EC%BD%94/"><img src="https://img.shields.io/badge/%EC%9A%B0%ED%85%8C%EC%BD%94%20%2842%29-87CEFA?style=flat-square" alt="우테코"/></a> <a href="https://youngsu5582.life/tags/%EC%8A%A4%ED%94%84%EB%A7%81/"><img src="https://img.shields.io/badge/%EC%8A%A4%ED%94%84%EB%A7%81%20%287%29-87CEFA?style=flat-square" alt="스프링"/></a> <a href="https://youngsu5582.life/tags/%ED%9A%8C%EA%B3%A0/"><img src="https://img.shields.io/badge/%ED%9A%8C%EA%B3%A0%20%286%29-87CEFA?style=flat-square" alt="회고"/></a> <a href="https://youngsu5582.life/tags/%EA%B9%83%ED%97%88%EB%B8%8C/"><img src="https://img.shields.io/badge/%EA%B9%83%ED%97%88%EB%B8%8C%20%284%29-87CEFA?style=flat-square" alt="깃허브"/></a> <a href="https://youngsu5582.life/tags/%EC%9E%90%EB%B0%94/"><img src="https://img.shields.io/badge/%EC%9E%90%EB%B0%94%20%284%29-87CEFA?style=flat-square" alt="자바"/></a>
+      <a href="https://youngsu5582.life/tags/%EC%9A%B0%ED%85%8C%EC%BD%94/"><img src="https://img.shields.io/badge/%EC%9A%B0%ED%85%8C%EC%BD%94%20%2837%29-87CEFA?style=flat-square" alt="우테코"/></a> <a href="https://youngsu5582.life/tags/%EC%8A%A4%ED%94%84%EB%A7%81/"><img src="https://img.shields.io/badge/%EC%8A%A4%ED%94%84%EB%A7%81%20%285%29-87CEFA?style=flat-square" alt="스프링"/></a> <a href="https://youngsu5582.life/tags/%EA%B9%83%ED%97%88%EB%B8%8C/"><img src="https://img.shields.io/badge/%EA%B9%83%ED%97%88%EB%B8%8C%20%284%29-87CEFA?style=flat-square" alt="깃허브"/></a> <a href="https://youngsu5582.life/tags/%ED%9A%8C%EA%B3%A0/"><img src="https://img.shields.io/badge/%ED%9A%8C%EA%B3%A0%20%284%29-87CEFA?style=flat-square" alt="회고"/></a> <a href="https://youngsu5582.life/tags/git/"><img src="https://img.shields.io/badge/git%20%283%29-87CEFA?style=flat-square" alt="git"/></a>
     </td>
   </tr>
 </table>
