@@ -33,15 +33,15 @@
           <th align="center">Date</th>
         </tr>
         <tr>
-          <td align="center"><a href="http://youngsu5582.life/posts/content-negotiation-in-spring/">Content Negotiation in Spring</a></td>
+          <td align="center"><a href="https://youngsu5582.life//posts/content-negotiation-in-spring/">Content Negotiation in Spring</a></td>
           <td align="center">2025-09-19</td>
         </tr>
         <tr>
-          <td align="center"><a href="http://youngsu5582.life/posts/rabbitmq-vs-kafka">RabbitMQ VS Kafka</a></td>
+          <td align="center"><a href="https://youngsu5582.life//posts/rabbitmq-vs-kafka">RabbitMQ VS Kafka</a></td>
           <td align="center">2025-09-13</td>
         </tr>
         <tr>
-          <td align="center"><a href="http://youngsu5582.life/posts/partitioning-in-postgresql/">파티셔닝 톺아보기 in PostgreSQL</a></td>
+          <td align="center"><a href="https://youngsu5582.life//posts/partitioning-in-postgresql/">파티셔닝 톺아보기 in PostgreSQL</a></td>
           <td align="center">2025-09-07</td>
         </tr>
       </table>
