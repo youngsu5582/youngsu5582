@@ -112,7 +112,7 @@ def get_today_visitors():
     credentials_info = json.loads(service_account_json)
     client = BetaAnalyticsDataClient.from_service_account_info(credentials_info)
     request = RunReportRequest(
-        property=property_id,
+        property=f"properties/{property_id}",
         metrics=[Metric(name="activeUsers")],
         date_ranges=[DateRange(start_date="today", end_date="today")],
     )
@@ -131,7 +131,7 @@ def get_total_visitors():
 
     client = BetaAnalyticsDataClient.from_service_account_info(credentials_info)
     request = RunReportRequest(
-        property=property_id,
+        property=f"properties/{property_id}",
         metrics=[Metric(name="activeUsers")],
         date_ranges=[DateRange(start_date="2025-01-01", end_date="today")],
     )
@@ -145,6 +145,7 @@ if __name__ == "__main__":
     tags = get_tag_data(TAG_URL, TAG_COUNT)
     ga_today_users = get_today_visitors()
     ga_total_users = get_total_visitors()
-
+    print("today",ga_today_users)
+    print("total",ga_total_users)
     md = build_markdown_card(posts, tags, ga_today_users, ga_total_users)
-    print(md)
+#     print(md)
