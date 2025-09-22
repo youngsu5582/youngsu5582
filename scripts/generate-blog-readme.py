@@ -169,7 +169,5 @@ if __name__ == "__main__":
     tags = get_tag_data(TAG_URL, TAG_COUNT)
     ga_today_users = get_today_visitors()
     ga_total_users = get_total_visitors()
-    print("today",ga_today_users)
-    print("total",ga_total_users)
     md = build_markdown_card(posts, tags, ga_today_users, ga_total_users)
-#     print(md)
+    print(md)
