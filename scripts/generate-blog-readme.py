@@ -104,15 +104,39 @@ def get_tag_data(url, count):
     tags.sort(key=lambda x: x[1], reverse=True)
     return tags[:count]
 
+def get_ga_credentials():
+    """Fetches GA credentials from env var or local file."""
+    service_account_json_env = os.environ.get("GA_SERVICE_ACCOUNT_JSON")
+    if service_account_json_env:
+        return json.loads(service_account_json_env)
+    try:
+        with open('ga_service_account.json', 'r') as f:
+            return json.load(f)
+    except FileNotFoundError:
+        return None
+
+def get_ga_property_id():
+    """Fetches the GA Property ID from env var or local file."""
+    prop_id = os.environ.get("GA_PROPERTY_ID")
+    if prop_id:
+        return prop_id
+    try:
+        with open('ga_property_id.txt', 'r') as f:
+            return f.read().strip()
+    except FileNotFoundError:
+        return None
+
 def get_today_visitors():
-    service_account_json = os.environ.get("GA_SERVICE_ACCOUNT_JSON", "")
-    property_id = os.environ.get("GA_PROPERTY_ID","")
-    if not service_account_json:
+    property_id = get_ga_property_id()
+    credentials_info = get_ga_credentials()
+
+    if not property_id or not credentials_info:
+        print("Error: GA credentials or Property ID not found.")
         return 0
-    credentials_info = json.loads(service_account_json)
+
     client = BetaAnalyticsDataClient.from_service_account_info(credentials_info)
     request = RunReportRequest(
-        property=property_id,
+        property=f"properties/{property_id}",
         metrics=[Metric(name="activeUsers")],
         date_ranges=[DateRange(start_date="today", end_date="today")],
     )
@@ -122,18 +146,18 @@ def get_today_visitors():
     return 0
 
 def get_total_visitors():
-    service_account_json = os.environ.get("GA_SERVICE_ACCOUNT_JSON", "")
-    property_id = os.environ.get("GA_PROPERTY_ID","")
-    if not service_account_json:
+    property_id = get_ga_property_id()
+    credentials_info = get_ga_credentials()
+
+    if not property_id or not credentials_info:
+        print("Error: GA credentials or Property ID not found.")
         return 0
-    
-    credentials_info = json.loads(service_account_json)
 
     client = BetaAnalyticsDataClient.from_service_account_info(credentials_info)
     request = RunReportRequest(
-        property=property_id,
-        metrics=[Metric(name="activeUsers")],
-        date_ranges=[DateRange(start_date="2025-01-01", end_date="today")],
+        property=f"properties/{property_id}",
+        metrics=[Metric(name="totalUsers")],
+        date_ranges=[DateRange(start_date="2020-01-01", end_date="today")],
     )
     response = client.run_report(request)
     if response.rows:
@@ -145,6 +169,7 @@ if __name__ == "__main__":
     tags = get_tag_data(TAG_URL, TAG_COUNT)
     ga_today_users = get_today_visitors()
     ga_total_users = get_total_visitors()
-
+    print("today",ga_today_users)
+    print("total",ga_total_users)
     md = build_markdown_card(posts, tags, ga_today_users, ga_total_users)
-    print(md)
+#     print(md)
