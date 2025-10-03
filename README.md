@@ -21,7 +21,7 @@
       </a>
     </td>
     <td style="text-align:center; vertical-align:middle; border-bottom:1px solid #87CEFA; font-weight:bold;">
-      Yesterday: <strong>1</strong> | Total: <strong>1222</strong>
+      Yesterday: <strong>0</strong> | Total: <strong>1226</strong>
     </td>
   </tr>
   <tr>
