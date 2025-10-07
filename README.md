@@ -33,6 +33,10 @@
           <th align="center">Date</th>
         </tr>
         <tr>
+          <td align="center"><a href="http://youngsu5582.life/posts/6-months-new-developer-reflection/">신입 개발자로서 6개월을 회고하며</a></td>
+          <td align="center">2025-10-07</td>
+        </tr>
+        <tr>
           <td align="center"><a href="http://youngsu5582.life/posts/spring-3-5-java-25-change-points/">Spring 3.4, 3.5 및 Java 25의 변화점</a></td>
           <td align="center">2025-09-24</td>
         </tr>
@@ -40,17 +44,13 @@
           <td align="center"><a href="http://youngsu5582.life/posts/content-negotiation-in-spring/">Content Negotiation in Spring</a></td>
           <td align="center">2025-09-19</td>
         </tr>
-        <tr>
-          <td align="center"><a href="http://youngsu5582.life/posts/rabbitmq-vs-kafka">RabbitMQ VS Kafka</a></td>
-          <td align="center">2025-09-13</td>
-        </tr>
       </table>
     </td>
   </tr>
   <tr>
     <td colspan="2" style="padding-top:14px;">
       <strong>🔖 Top Tags</strong><br/>
-      <a href="https://youngsu5582.life/tags/%EC%9A%B0%ED%85%8C%EC%BD%94/"><img src="https://img.shields.io/badge/%EC%9A%B0%ED%85%8C%EC%BD%94%20%2837%29-87CEFA?style=flat-square" alt="우테코"/></a> <a href="https://youngsu5582.life/tags/%EC%8A%A4%ED%94%84%EB%A7%81/"><img src="https://img.shields.io/badge/%EC%8A%A4%ED%94%84%EB%A7%81%20%287%29-87CEFA?style=flat-square" alt="스프링"/></a> <a href="https://youngsu5582.life/tags/%EA%B9%83%ED%97%88%EB%B8%8C/"><img src="https://img.shields.io/badge/%EA%B9%83%ED%97%88%EB%B8%8C%20%284%29-87CEFA?style=flat-square" alt="깃허브"/></a> <a href="https://youngsu5582.life/tags/%ED%9A%8C%EA%B3%A0/"><img src="https://img.shields.io/badge/%ED%9A%8C%EA%B3%A0%20%284%29-87CEFA?style=flat-square" alt="회고"/></a> <a href="https://youngsu5582.life/tags/git/"><img src="https://img.shields.io/badge/git%20%283%29-87CEFA?style=flat-square" alt="git"/></a>
+      <a href="https://youngsu5582.life/tags/%EC%9A%B0%ED%85%8C%EC%BD%94/"><img src="https://img.shields.io/badge/%EC%9A%B0%ED%85%8C%EC%BD%94%20%2836%29-87CEFA?style=flat-square" alt="우테코"/></a> <a href="https://youngsu5582.life/tags/%EC%8A%A4%ED%94%84%EB%A7%81/"><img src="https://img.shields.io/badge/%EC%8A%A4%ED%94%84%EB%A7%81%20%287%29-87CEFA?style=flat-square" alt="스프링"/></a> <a href="https://youngsu5582.life/tags/%ED%9A%8C%EA%B3%A0/"><img src="https://img.shields.io/badge/%ED%9A%8C%EA%B3%A0%20%285%29-87CEFA?style=flat-square" alt="회고"/></a> <a href="https://youngsu5582.life/tags/%EA%B9%83%ED%97%88%EB%B8%8C/"><img src="https://img.shields.io/badge/%EA%B9%83%ED%97%88%EB%B8%8C%20%284%29-87CEFA?style=flat-square" alt="깃허브"/></a> <a href="https://youngsu5582.life/tags/git/"><img src="https://img.shields.io/badge/git%20%283%29-87CEFA?style=flat-square" alt="git"/></a>
     </td>
   </tr>
 </table>
