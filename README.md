@@ -21,7 +21,7 @@
       </a>
     </td>
     <td style="text-align:center; vertical-align:middle; border-bottom:1px solid #87CEFA; font-weight:bold;">
-      Yesterday: <strong>0</strong> | Total: <strong>1232</strong>
+      Yesterday: <strong>0</strong> | Total: <strong>1236</strong>
     </td>
   </tr>
   <tr>
@@ -33,16 +33,16 @@
           <th align="center">Date</th>
         </tr>
         <tr>
+          <td align="center"><a href="http://youngsu5582.life/posts/cli-tool-introduction-zshrc/">개발자의 1초, 1분, 1시간을 단축시키는 CLI (1) - zshrc 및 cli tool 소개</a></td>
+          <td align="center">2025-10-09</td>
+        </tr>
+        <tr>
           <td align="center"><a href="http://youngsu5582.life/posts/6-months-new-developer-reflection/">신입 개발자로서 6개월을 회고하며</a></td>
           <td align="center">2025-10-07</td>
         </tr>
         <tr>
           <td align="center"><a href="http://youngsu5582.life/posts/spring-3-5-java-25-change-points/">Spring 3.4, 3.5 및 Java 25의 변화점</a></td>
           <td align="center">2025-09-24</td>
-        </tr>
-        <tr>
-          <td align="center"><a href="http://youngsu5582.life/posts/content-negotiation-in-spring/">Content Negotiation in Spring</a></td>
-          <td align="center">2025-09-19</td>
         </tr>
       </table>
     </td>
