@@ -22,7 +22,7 @@ An error occurred: module 'importlib.metadata' has no attribute 'packages_distri
       </a>
     </td>
     <td style="text-align:center; vertical-align:middle; border-bottom:1px solid #87CEFA; font-weight:bold;">
-      Yesterday: <strong>0</strong> | Total: <strong>1996</strong>
+      Yesterday: <strong>0</strong> | Total: <strong>2002</strong>
     </td>
   </tr>
   <tr>
@@ -34,16 +34,16 @@ An error occurred: module 'importlib.metadata' has no attribute 'packages_distri
           <th align="center">Date</th>
         </tr>
         <tr>
+          <td align="center"><a href="https://youngsu5582.life//posts/youthcon-presentation-reflections/">[블로그 초안] 유스콘 발표를 마치고(1) - 타임라인과 느낀점</a></td>
+          <td align="center">2025-12-28</td>
+        </tr>
+        <tr>
           <td align="center"><a href="https://youngsu5582.life//posts/cli-automation-with-fzf/">개발자의 1초,1분,1시간을 단축시키는 CLI (2) - fzf 를 활용한 반복 작업 자동화</a></td>
           <td align="center">2025-10-12</td>
         </tr>
         <tr>
           <td align="center"><a href="https://youngsu5582.life//posts/cli-tool-introduction-zshrc/">개발자의 1초, 1분, 1시간을 단축시키는 CLI (1) - zshrc 및 cli tool 소개</a></td>
           <td align="center">2025-10-09</td>
-        </tr>
-        <tr>
-          <td align="center"><a href="https://youngsu5582.life//posts/6-months-new-developer-reflection/">신입 개발자로서 6개월을 회고하며</a></td>
-          <td align="center">2025-10-07</td>
         </tr>
       </table>
     </td>
