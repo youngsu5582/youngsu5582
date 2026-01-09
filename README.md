@@ -10,7 +10,6 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white)
 
 ## 블로그
-An error occurred: module 'importlib.metadata' has no attribute 'packages_distributions'
 
 <table cellpadding="8" cellspacing="0" style="border:1px solid #87CEFA; border-radius:8px; width:100%; max-width:600px; font-family:sans-serif;">
   <tr style="background:#F0F8FF;">
@@ -22,7 +21,7 @@ An error occurred: module 'importlib.metadata' has no attribute 'packages_distri
       </a>
     </td>
     <td style="text-align:center; vertical-align:middle; border-bottom:1px solid #87CEFA; font-weight:bold;">
-      Yesterday: <strong>0</strong> | Total: <strong>2163</strong>
+      Yesterday: <strong>0</strong> | Total: <strong>2174</strong>
     </td>
   </tr>
   <tr>
