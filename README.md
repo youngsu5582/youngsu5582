@@ -21,7 +21,7 @@
       </a>
     </td>
     <td style="text-align:center; vertical-align:middle; border-bottom:1px solid #87CEFA; font-weight:bold;">
-      Yesterday: <strong>0</strong> | Total: <strong>2334</strong>
+      Yesterday: <strong>0</strong> | Total: <strong>2339</strong>
     </td>
   </tr>
   <tr>
@@ -33,16 +33,16 @@
           <th align="center">Date</th>
         </tr>
         <tr>
-          <td align="center"><a href="https://youngsu5582.life/posts/2025-reflection/">2025 회고</a></td>
+          <td align="center"><a href="http://youngsu5582.life/posts/isms-p-certification-deleted-member-records-issue-review/">ISMS-P 인증을 위한 탈퇴 회원 기록 소거 이슈 회고</a></td>
+          <td align="center">2026-01-25</td>
+        </tr>
+        <tr>
+          <td align="center"><a href="http://youngsu5582.life/posts/2025-reflection/">2025 회고</a></td>
           <td align="center">2026-01-03</td>
         </tr>
         <tr>
-          <td align="center"><a href="https://youngsu5582.life/posts/youthcon-presentation-reflections/">유스콘 발표를 마치고(1) - 타임라인과 느낀점</a></td>
+          <td align="center"><a href="http://youngsu5582.life/posts/youthcon-presentation-reflections/">유스콘 발표를 마치고(1) - 타임라인과 느낀점</a></td>
           <td align="center">2025-12-28</td>
-        </tr>
-        <tr>
-          <td align="center"><a href="https://youngsu5582.life/posts/cli-automation-with-fzf/">개발자의 1초,1분,1시간을 단축시키는 CLI (2) -  fzf 를 활용한 반복 작업 자동화</a></td>
-          <td align="center">2025-10-12</td>
         </tr>
       </table>
     </td>
