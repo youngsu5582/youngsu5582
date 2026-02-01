@@ -21,7 +21,7 @@
       </a>
     </td>
     <td style="text-align:center; vertical-align:middle; border-bottom:1px solid #87CEFA; font-weight:bold;">
-      Yesterday: <strong>0</strong> | Total: <strong>2416</strong>
+      Yesterday: <strong>0</strong> | Total: <strong>2429</strong>
     </td>
   </tr>
   <tr>
@@ -33,6 +33,10 @@
           <th align="center">Date</th>
         </tr>
         <tr>
+          <td align="center"><a href="http://youngsu5582.life/posts/shell-directly-implement/">Shell 직접 만들어보기 (feat. codecrafters)</a></td>
+          <td align="center">2026-02-01</td>
+        </tr>
+        <tr>
           <td align="center"><a href="http://youngsu5582.life/posts/isms-p-certification-deleted-member-records-issue-review/">ISMS-P 인증을 위한 탈퇴 회원 기록 소거 이슈 회고</a></td>
           <td align="center">2026-01-25</td>
         </tr>
@@ -40,17 +44,13 @@
           <td align="center"><a href="http://youngsu5582.life/posts/2025-reflection/">2025 회고</a></td>
           <td align="center">2026-01-03</td>
         </tr>
-        <tr>
-          <td align="center"><a href="http://youngsu5582.life/posts/youthcon-presentation-reflections/">유스콘 발표를 마치고(1) - 타임라인과 느낀점</a></td>
-          <td align="center">2025-12-28</td>
-        </tr>
       </table>
     </td>
   </tr>
   <tr>
     <td colspan="2" style="padding-top:14px;">
       <strong>🔖 Top Tags</strong><br/>
-      <a href="https://youngsu5582.life/tags/%EC%9A%B0%ED%85%8C%EC%BD%94/"><img src="https://img.shields.io/badge/%EC%9A%B0%ED%85%8C%EC%BD%94%20%2836%29-87CEFA?style=flat-square" alt="우테코"/></a> <a href="https://youngsu5582.life/tags/%EC%8A%A4%ED%94%84%EB%A7%81/"><img src="https://img.shields.io/badge/%EC%8A%A4%ED%94%84%EB%A7%81%20%287%29-87CEFA?style=flat-square" alt="스프링"/></a> <a href="https://youngsu5582.life/tags/%ED%9A%8C%EA%B3%A0/"><img src="https://img.shields.io/badge/%ED%9A%8C%EA%B3%A0%20%286%29-87CEFA?style=flat-square" alt="회고"/></a> <a href="https://youngsu5582.life/tags/%EA%B9%83%ED%97%88%EB%B8%8C/"><img src="https://img.shields.io/badge/%EA%B9%83%ED%97%88%EB%B8%8C%20%284%29-87CEFA?style=flat-square" alt="깃허브"/></a> <a href="https://youngsu5582.life/tags/git/"><img src="https://img.shields.io/badge/git%20%283%29-87CEFA?style=flat-square" alt="git"/></a>
+      <a href="https://youngsu5582.life/tags/%EC%9A%B0%ED%85%8C%EC%BD%94/"><img src="https://img.shields.io/badge/%EC%9A%B0%ED%85%8C%EC%BD%94%20%2836%29-87CEFA?style=flat-square" alt="우테코"/></a> <a href="https://youngsu5582.life/tags/%EC%8A%A4%ED%94%84%EB%A7%81/"><img src="https://img.shields.io/badge/%EC%8A%A4%ED%94%84%EB%A7%81%20%287%29-87CEFA?style=flat-square" alt="스프링"/></a> <a href="https://youngsu5582.life/tags/%ED%9A%8C%EA%B3%A0/"><img src="https://img.shields.io/badge/%ED%9A%8C%EA%B3%A0%20%286%29-87CEFA?style=flat-square" alt="회고"/></a> <a href="https://youngsu5582.life/tags/%EA%B9%83%ED%97%88%EB%B8%8C/"><img src="https://img.shields.io/badge/%EA%B9%83%ED%97%88%EB%B8%8C%20%284%29-87CEFA?style=flat-square" alt="깃허브"/></a> <a href="https://youngsu5582.life/tags/%ED%85%8C%EC%8A%A4%ED%8A%B8/"><img src="https://img.shields.io/badge/%ED%85%8C%EC%8A%A4%ED%8A%B8%20%284%29-87CEFA?style=flat-square" alt="테스트"/></a>
     </td>
   </tr>
 </table>
