@@ -10,13 +10,13 @@ from html2image import Html2Image
 from google.analytics.data import BetaAnalyticsDataClient
 from google.analytics.data import RunReportRequest, DateRange, Metric
 
-BLOG_URL = "https://youngsu5582.life"
-BLOG_DOMAIN = "youngsu5582.life"
+BLOG_URL = "https://youngsu5582.today"
+BLOG_DOMAIN = "youngsu5582.today"
 
-POST_URL = "https://youngsu5582.life/feed"
+POST_URL = "https://youngsu5582.today/feed"
 POST_COUNT = 3
 
-TAG_URL = "https://youngsu5582.life/tags/"
+TAG_URL = "https://youngsu5582.today/tags/"
 TAG_COUNT = 5
 
 def build_markdown_card(posts, tags, today, total):
