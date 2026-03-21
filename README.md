@@ -21,7 +21,7 @@
       </a>
     </td>
     <td style="text-align:center; vertical-align:middle; border-bottom:1px solid #87CEFA; font-weight:bold;">
-      Yesterday: <strong>0</strong> | Total: <strong>2781</strong>
+      Yesterday: <strong>0</strong> | Total: <strong>2784</strong>
     </td>
   </tr>
   <tr>
@@ -32,25 +32,13 @@
           <th align="center">Title</th>
           <th align="center">Date</th>
         </tr>
-        <tr>
-          <td align="center"><a href="https://youngsu5582.today/posts/spring-에서-rabbitmq-보일러-플레이트-코드-제거하기-feat-declares-rabbitlistenerendpointregistrar/">Spring 에서 RabbitMQ 보일러 플레이트 코드 제거하기 (feat.Declares, RabbitListenerEndpointRegistrar)</a></td>
-          <td align="center">2026-02-13</td>
-        </tr>
-        <tr>
-          <td align="center"><a href="https://youngsu5582.today/posts/ai-agent-hackathon-feat-vibe-coding/">AI 에이전트 해커톤을 하고 (feat.바이브코딩)</a></td>
-          <td align="center">2026-02-08</td>
-        </tr>
-        <tr>
-          <td align="center"><a href="https://youngsu5582.today/posts/shell-directly-implement/">Shell 직접 만들어보기 (feat. codecrafters)</a></td>
-          <td align="center">2026-02-01</td>
-        </tr>
       </table>
     </td>
   </tr>
   <tr>
     <td colspan="2" style="padding-top:14px;">
       <strong>🔖 Top Tags</strong><br/>
-      <a href="https://youngsu5582.today/tags/%EC%9A%B0%ED%85%8C%EC%BD%94/"><img src="https://img.shields.io/badge/%EC%9A%B0%ED%85%8C%EC%BD%94%20%2836%29-87CEFA?style=flat-square" alt="우테코"/></a> <a href="https://youngsu5582.today/tags/%EC%8A%A4%ED%94%84%EB%A7%81/"><img src="https://img.shields.io/badge/%EC%8A%A4%ED%94%84%EB%A7%81%20%288%29-87CEFA?style=flat-square" alt="스프링"/></a> <a href="https://youngsu5582.today/tags/%ED%9A%8C%EA%B3%A0/"><img src="https://img.shields.io/badge/%ED%9A%8C%EA%B3%A0%20%286%29-87CEFA?style=flat-square" alt="회고"/></a> <a href="https://youngsu5582.today/tags/%EA%B9%83%ED%97%88%EB%B8%8C/"><img src="https://img.shields.io/badge/%EA%B9%83%ED%97%88%EB%B8%8C%20%284%29-87CEFA?style=flat-square" alt="깃허브"/></a> <a href="https://youngsu5582.today/tags/%ED%85%8C%EC%8A%A4%ED%8A%B8/"><img src="https://img.shields.io/badge/%ED%85%8C%EC%8A%A4%ED%8A%B8%20%284%29-87CEFA?style=flat-square" alt="테스트"/></a>
+      
     </td>
   </tr>
 </table>
