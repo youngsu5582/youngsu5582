@@ -21,7 +21,7 @@
       </a>
     </td>
     <td style="text-align:center; vertical-align:middle; border-bottom:1px solid #87CEFA; font-weight:bold;">
-      Yesterday: <strong>0</strong> | Total: <strong>2785</strong>
+      Yesterday: <strong>0</strong> | Total: <strong>2786</strong>
     </td>
   </tr>
   <tr>
@@ -57,18 +57,18 @@
           <th align="center">Date</th>
         </tr>
         <tr>
-          <td align="center"><a href="https://youngsu5582.today/notes">블로그 댓글 기능 추가 - Giscus</a></td>
+          <td align="center"><a href="https://youngsu5582.today/notes/transactionaleventlistener-good-practice">TransactionalEventListener 사용할 때 주의점</a></td>
+          <td align="center">silent-failure · transactional-event-listener</td>
+          <td align="center">2026-03-23</td>
+        </tr>
+        <tr>
+          <td align="center"><a href="https://youngsu5582.today/notes/blog-comment-with-giscus">블로그 댓글 기능 추가 - Giscus</a></td>
           <td align="center">giscus · blog-comment</td>
           <td align="center">2026-03-21</td>
         </tr>
         <tr>
-          <td align="center"><a href="https://youngsu5582.today/notes">카프카 auto offset reset 설정</a></td>
+          <td align="center"><a href="https://youngsu5582.today/notes/kafka-auto-offset-reset">카프카 auto offset reset 설정</a></td>
           <td align="center">kafka-setting · auto-offset-reset</td>
-          <td align="center">2026-03-19</td>
-        </tr>
-        <tr>
-          <td align="center"><a href="https://youngsu5582.today/notes">enableDefaultTyping 과 주의점</a></td>
-          <td align="center">Java</td>
           <td align="center">2026-03-19</td>
         </tr>
       </table>
