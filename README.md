@@ -32,13 +32,52 @@
           <th align="center">Title</th>
           <th align="center">Date</th>
         </tr>
+        <tr>
+          <td align="center"><a href="https://youngsu5582.today/posts/blog-migration-to-custom-blog">블로그 마이그레이션 (jekyll -> custom blog)</a></td>
+          <td align="center">2026-03-23</td>
+        </tr>
+        <tr>
+          <td align="center"><a href="https://youngsu5582.today/posts/removing-boilerplate-code-for-rabbitmq-in-spring">Spring 에서 RabbitMQ 보일러 플레이트 코드 제거하기 (feat.Declares, RabbitListenerEndpointRegistrar)</a></td>
+          <td align="center">2026-02-13</td>
+        </tr>
+        <tr>
+          <td align="center"><a href="https://youngsu5582.today/posts/ai-agent-hackathon-feat-vibe-coding">AI 에이전트 해커톤을 하고 (feat.바이브코딩)</a></td>
+          <td align="center">2026-02-08</td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" style="padding-top:12px;">
+      <strong>📓 Recent Notes</strong>
+      <table cellpadding="6" cellspacing="0" style="width:100%; margin-top:8px; border-collapse:collapse;">
+        <tr style="background:#AAD1E7;">
+          <th align="center">Title</th>
+          <th align="center">Tags</th>
+          <th align="center">Date</th>
+        </tr>
+        <tr>
+          <td align="center"><a href="https://youngsu5582.today/notes/blog-comment-with-giscus">블로그 댓글 기능 추가 - Giscus</a></td>
+          <td align="center">giscus blog-comment</td>
+          <td align="center">2026-03-21</td>
+        </tr>
+        <tr>
+          <td align="center"><a href="https://youngsu5582.today/notes/kafka-auto-offset-reset">카프카 auto offset reset 설정</a></td>
+          <td align="center">kafka-setting auto-offset-reset</td>
+          <td align="center">2026-03-19</td>
+        </tr>
+        <tr>
+          <td align="center"><a href="https://youngsu5582.today/notes/enabledefaulttyping-caution">enableDefaultTyping 과 주의점</a></td>
+          <td align="center">Java</td>
+          <td align="center">2026-03-19</td>
+        </tr>
       </table>
     </td>
   </tr>
   <tr>
     <td colspan="2" style="padding-top:14px;">
       <strong>🔖 Top Tags</strong><br/>
-      
+      <a href="https://youngsu5582.today/tags/%EC%9A%B0%ED%85%8C%EC%BD%94/"><img src="https://img.shields.io/badge/%EC%9A%B0%ED%85%8C%EC%BD%94%20%2839%29-87CEFA?style=flat-square" alt="우테코"/></a> <a href="https://youngsu5582.today/tags/%EC%8A%A4%ED%94%84%EB%A7%81/"><img src="https://img.shields.io/badge/%EC%8A%A4%ED%94%84%EB%A7%81%20%289%29-87CEFA?style=flat-square" alt="스프링"/></a> <a href="https://youngsu5582.today/tags/%ED%9A%8C%EA%B3%A0/"><img src="https://img.shields.io/badge/%ED%9A%8C%EA%B3%A0%20%286%29-87CEFA?style=flat-square" alt="회고"/></a> <a href="https://youngsu5582.today/tags/%EC%9E%90%EB%B0%94/"><img src="https://img.shields.io/badge/%EC%9E%90%EB%B0%94%20%285%29-87CEFA?style=flat-square" alt="자바"/></a> <a href="https://youngsu5582.today/tags/type/guide/"><img src="https://img.shields.io/badge/type/guide%20%285%29-87CEFA?style=flat-square" alt="type/guide"/></a>
     </td>
   </tr>
 </table>
