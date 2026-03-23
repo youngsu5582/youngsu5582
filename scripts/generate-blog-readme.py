@@ -1,25 +1,20 @@
-import re
 import requests
 import urllib.parse
-from bs4 import BeautifulSoup
-import feedparser
 import os
 import json
 
-from html2image import Html2Image
 from google.analytics.data import BetaAnalyticsDataClient
 from google.analytics.data import RunReportRequest, DateRange, Metric
 
 BLOG_URL = "https://youngsu5582.today"
 BLOG_DOMAIN = "youngsu5582.today"
 
-POST_URL = "https://youngsu5582.today/feed"
+STATS_URL = "https://youngsu5582.today/api/stats"
 POST_COUNT = 3
-
-TAG_URL = "https://youngsu5582.today/tags/"
+NOTE_COUNT = 3
 TAG_COUNT = 5
 
-def build_markdown_card(posts, tags, today, total):
+def build_markdown_card(posts, notes, tags, today, total):
     # Header + Visitors
     header = f"""
 <table cellpadding="8" cellspacing="0" style="border:1px solid #87CEFA; border-radius:8px; width:100%; max-width:600px; font-family:sans-serif;">
@@ -56,6 +51,28 @@ def build_markdown_card(posts, tags, today, total):
     </td>
   </tr>"""
 
+    # Recent Notes
+    notes_rows = "".join(f"""
+        <tr>
+          <td align="center"><a href="{link}">{title}</a></td>
+          <td align="center">{' '.join(t for t in note_tags[:2])}</td>
+          <td align="center">{date}</td>
+        </tr>""" for title, link, date, note_tags in notes)
+
+    notes_html = f"""
+  <tr>
+    <td colspan="2" style="padding-top:12px;">
+      <strong>📓 Recent Notes</strong>
+      <table cellpadding="6" cellspacing="0" style="width:100%; margin-top:8px; border-collapse:collapse;">
+        <tr style="background:#AAD1E7;">
+          <th align="center">Title</th>
+          <th align="center">Tags</th>
+          <th align="center">Date</th>
+        </tr>{notes_rows}
+      </table>
+    </td>
+  </tr>"""
+
     # Top Tags
     badges = " ".join(
         f'<a href="{BLOG_URL}/tags/{urllib.parse.quote(name)}/"><img src="https://img.shields.io/badge/{urllib.parse.quote(name)}%20%28{cnt}%29-87CEFA?style=flat-square" alt="{name}"/></a>'
@@ -71,38 +88,15 @@ def build_markdown_card(posts, tags, today, total):
   </tr>
 </table>"""
 
-    return header + latest + tags_html
+    return header + latest + notes_html + tags_html
 
-def get_post_data(url, count):
-    feed = feedparser.parse(url)
-    posts = []
-    for entry in feed.entries[:count]:
-        title = entry.title
-        link = entry.link
-        date_short = entry.published.split("T")[0] if "T" in entry.published else entry.published
-        posts.append((title, link, date_short))
-    return posts
-
-def get_tag_data(url, count):
-    response = requests.get(url)
-    soup = BeautifulSoup(response.text, 'html.parser')
-
-    tag_divs = soup.select("#tags div")
-    tags = []
-    for div in tag_divs:
-        a_tag = div.select_one("a.tag")
-        if not a_tag:
-            continue
-        tag_name = a_tag.contents[0].strip()
-        count_span = a_tag.select_one("span.text-muted")
-        if count_span:
-            tag_count = int(count_span.get_text(strip=True))
-        else:
-            tag_count = 0
-        tags.append((tag_name, tag_count))
-
-    tags.sort(key=lambda x: x[1], reverse=True)
-    return tags[:count]
+def get_blog_stats(post_count, note_count, tag_count):
+    resp = requests.get(STATS_URL, params={"posts": post_count, "notes": note_count, "tags": tag_count})
+    data = resp.json()
+    posts = [(p["title"], p["link"], p["date"].split("T")[0]) for p in data["posts"]]
+    notes = [(n["title"], n["link"], n["date"].split("T")[0], n.get("tags", [])) for n in data["notes"]]
+    tags = [(t["name"], t["count"]) for t in data["tags"]]
+    return posts, notes, tags
 
 def get_ga_credentials():
     """Fetches GA credentials from env var or local file."""
@@ -165,9 +159,8 @@ def get_total_visitors():
     return 0
 
 if __name__ == "__main__":
-    posts = get_post_data(POST_URL, POST_COUNT)
-    tags = get_tag_data(TAG_URL, TAG_COUNT)
+    posts, notes, tags = get_blog_stats(POST_COUNT, NOTE_COUNT, TAG_COUNT)
     ga_today_users = get_today_visitors()
     ga_total_users = get_total_visitors()
-    md = build_markdown_card(posts, tags, ga_today_users, ga_total_users)
+    md = build_markdown_card(posts, notes, tags, ga_today_users, ga_total_users)
     print(md)
