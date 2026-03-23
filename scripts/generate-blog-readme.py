@@ -55,7 +55,7 @@ def build_markdown_card(posts, notes, tags, today, total):
     notes_rows = "".join(f"""
         <tr>
           <td align="center"><a href="{link}">{title}</a></td>
-          <td align="center">{' '.join(t for t in note_tags[:2])}</td>
+          <td align="center">{' · '.join(t for t in note_tags[:2])}</td>
           <td align="center">{date}</td>
         </tr>""" for title, link, date, note_tags in notes)
 
