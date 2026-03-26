@@ -21,7 +21,7 @@
       </a>
     </td>
     <td style="text-align:center; vertical-align:middle; border-bottom:1px solid #87CEFA; font-weight:bold;">
-      Yesterday: <strong>0</strong> | Total: <strong>2796</strong>
+      Yesterday: <strong>0</strong> | Total: <strong>2797</strong>
     </td>
   </tr>
   <tr>
@@ -37,7 +37,7 @@
           <td align="center">2026-03-23</td>
         </tr>
         <tr>
-          <td align="center"><a href="https://youngsu5582.today/posts/removing-boilerplate-code-for-rabbitmq-in-spring">Spring 에서 RabbitMQ 보일러 플레이트 코드 제거하기 (feat.Declares, RabbitListenerEndpointRegistrar)</a></td>
+          <td align="center"><a href="https://youngsu5582.today/posts/removing-boilerplate-code-for-rabbitmq-in-spring">Spring 에서 RabbitMQ 보일러 플레이트 코드 제거하기</a></td>
           <td align="center">2026-02-13</td>
         </tr>
         <tr>
@@ -57,6 +57,11 @@
           <th align="center">Date</th>
         </tr>
         <tr>
+          <td align="center"><a href="https://youngsu5582.today/notes/sealed-interface">Sealed Interface</a></td>
+          <td align="center">sealed · sealed-interface</td>
+          <td align="center">2026-03-26</td>
+        </tr>
+        <tr>
           <td align="center"><a href="https://youngsu5582.today/notes/cooperative-sticky-assignor">CooperativeStickyAssignor</a></td>
           <td align="center">cooperative-sticky-assignor · eager-rebalancing</td>
           <td align="center">2026-03-25</td>
@@ -65,11 +70,6 @@
           <td align="center"><a href="https://youngsu5582.today/notes/transactionaleventlistener-good-practice">TransactionalEventListener 사용할 때 주의점</a></td>
           <td align="center">silent-failure · transactional-event-listener</td>
           <td align="center">2026-03-23</td>
-        </tr>
-        <tr>
-          <td align="center"><a href="https://youngsu5582.today/notes/blog-comment-with-giscus">블로그 댓글 기능 추가 - Giscus</a></td>
-          <td align="center">giscus · blog-comment</td>
-          <td align="center">2026-03-21</td>
         </tr>
       </table>
     </td>
