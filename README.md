@@ -21,7 +21,7 @@
       </a>
     </td>
     <td style="text-align:center; vertical-align:middle; border-bottom:1px solid #87CEFA; font-weight:bold;">
-      Yesterday: <strong>0</strong> | Total: <strong>2798</strong>
+      Yesterday: <strong>0</strong> | Total: <strong>2801</strong>
     </td>
   </tr>
   <tr>
@@ -57,6 +57,11 @@
           <th align="center">Date</th>
         </tr>
         <tr>
+          <td align="center"><a href="https://youngsu5582.today/notes/good-code-flag-vs-endpoint">Good Code - 플래그 vs 엔드포인트</a></td>
+          <td align="center">clean-code · api-design</td>
+          <td align="center">2026-03-30</td>
+        </tr>
+        <tr>
           <td align="center"><a href="https://youngsu5582.today/notes/sealed-interface">Sealed Interface</a></td>
           <td align="center">sealed · sealed-interface</td>
           <td align="center">2026-03-26</td>
@@ -65,11 +70,6 @@
           <td align="center"><a href="https://youngsu5582.today/notes/cooperative-sticky-assignor">CooperativeStickyAssignor</a></td>
           <td align="center">cooperative-sticky-assignor · eager-rebalancing</td>
           <td align="center">2026-03-25</td>
-        </tr>
-        <tr>
-          <td align="center"><a href="https://youngsu5582.today/notes/transactionaleventlistener-good-practice">TransactionalEventListener 사용할 때 주의점</a></td>
-          <td align="center">silent-failure · transactional-event-listener</td>
-          <td align="center">2026-03-23</td>
         </tr>
       </table>
     </td>
