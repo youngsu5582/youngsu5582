@@ -21,7 +21,7 @@
       </a>
     </td>
     <td style="text-align:center; vertical-align:middle; border-bottom:1px solid #87CEFA; font-weight:bold;">
-      Yesterday: <strong>0</strong> | Total: <strong>2815</strong>
+      Yesterday: <strong>0</strong> | Total: <strong>2816</strong>
     </td>
   </tr>
   <tr>
@@ -33,16 +33,16 @@
           <th align="center">Date</th>
         </tr>
         <tr>
+          <td align="center"><a href="https://youngsu5582.today/posts/credit-paid-issue-retrospective">결제 크레딧 충전, 환불 파이프라인을 구축후 회고</a></td>
+          <td align="center">2026-04-11</td>
+        </tr>
+        <tr>
           <td align="center"><a href="https://youngsu5582.today/posts/blog-migration-to-custom-blog">블로그 마이그레이션 (jekyll -> custom blog)</a></td>
           <td align="center">2026-03-23</td>
         </tr>
         <tr>
           <td align="center"><a href="https://youngsu5582.today/posts/removing-boilerplate-code-for-rabbitmq-in-spring">Spring 에서 RabbitMQ 보일러 플레이트 코드 제거하기</a></td>
           <td align="center">2026-02-13</td>
-        </tr>
-        <tr>
-          <td align="center"><a href="https://youngsu5582.today/posts/ai-agent-hackathon-feat-vibe-coding">AI 에이전트 해커톤을 하고 (feat.바이브코딩)</a></td>
-          <td align="center">2026-02-08</td>
         </tr>
       </table>
     </td>
@@ -57,6 +57,11 @@
           <th align="center">Date</th>
         </tr>
         <tr>
+          <td align="center"><a href="https://youngsu5582.today/notes/redis-eviction">Redis 의 Eviction</a></td>
+          <td align="center">redis · redis-eviction</td>
+          <td align="center">2026-04-11</td>
+        </tr>
+        <tr>
           <td align="center"><a href="https://youngsu5582.today/notes/java-sortedmap-navigablemap">Java 의 SortedMap, NavigableMap</a></td>
           <td align="center">map · sortedmap</td>
           <td align="center">2026-04-05</td>
@@ -65,11 +70,6 @@
           <td align="center"><a href="https://youngsu5582.today/notes/rbac-role-based-access-control">RBAC (Role-Based Access Control)</a></td>
           <td align="center">access-control · rbac</td>
           <td align="center">2026-04-02</td>
-        </tr>
-        <tr>
-          <td align="center"><a href="https://youngsu5582.today/notes/session-in-claude">Claude 의 Session 관리 방법</a></td>
-          <td align="center">claude · claude-session</td>
-          <td align="center">2026-04-01</td>
         </tr>
       </table>
     </td>
