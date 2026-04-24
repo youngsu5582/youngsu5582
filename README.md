@@ -21,7 +21,7 @@
       </a>
     </td>
     <td style="text-align:center; vertical-align:middle; border-bottom:1px solid #87CEFA; font-weight:bold;">
-      Yesterday: <strong>0</strong> | Total: <strong>2833</strong>
+      Yesterday: <strong>0</strong> | Total: <strong>2835</strong>
     </td>
   </tr>
   <tr>
@@ -33,16 +33,16 @@
           <th align="center">Date</th>
         </tr>
         <tr>
+          <td align="center"><a href="https://youngsu5582.today/posts/order-data-handling">순서가 필요한 데이터를 다루는 법</a></td>
+          <td align="center">2026-04-23</td>
+        </tr>
+        <tr>
           <td align="center"><a href="https://youngsu5582.today/posts/credit-paid-issue-retrospective">결제 크레딧 충전, 환불 파이프라인을 구축후 회고</a></td>
           <td align="center">2026-04-11</td>
         </tr>
         <tr>
           <td align="center"><a href="https://youngsu5582.today/posts/blog-migration-to-custom-blog">블로그 마이그레이션 (jekyll -> custom blog)</a></td>
           <td align="center">2026-03-23</td>
-        </tr>
-        <tr>
-          <td align="center"><a href="https://youngsu5582.today/posts/removing-boilerplate-code-for-rabbitmq-in-spring">Spring 에서 RabbitMQ 보일러 플레이트 코드 제거하기</a></td>
-          <td align="center">2026-02-13</td>
         </tr>
       </table>
     </td>
