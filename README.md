@@ -21,7 +21,7 @@
       </a>
     </td>
     <td style="text-align:center; vertical-align:middle; border-bottom:1px solid #87CEFA; font-weight:bold;">
-      Yesterday: <strong>0</strong> | Total: <strong>2838</strong>
+      Yesterday: <strong>0</strong> | Total: <strong>2840</strong>
     </td>
   </tr>
   <tr>
@@ -57,6 +57,11 @@
           <th align="center">Date</th>
         </tr>
         <tr>
+          <td align="center"><a href="https://youngsu5582.today/notes/openclaw-slack-bot-scopes">OpenClaw Slack Bot 권한 정리</a></td>
+          <td align="center">openclaw · slack</td>
+          <td align="center">2026-04-30</td>
+        </tr>
+        <tr>
           <td align="center"><a href="https://youngsu5582.today/notes/redis-eviction">Redis 의 Eviction</a></td>
           <td align="center">redis · redis-eviction</td>
           <td align="center">2026-04-11</td>
@@ -65,11 +70,6 @@
           <td align="center"><a href="https://youngsu5582.today/notes/java-sortedmap-navigablemap">Java 의 SortedMap, NavigableMap</a></td>
           <td align="center">map · sortedmap</td>
           <td align="center">2026-04-05</td>
-        </tr>
-        <tr>
-          <td align="center"><a href="https://youngsu5582.today/notes/rbac-role-based-access-control">RBAC (Role-Based Access Control)</a></td>
-          <td align="center">access-control · rbac</td>
-          <td align="center">2026-04-02</td>
         </tr>
       </table>
     </td>
