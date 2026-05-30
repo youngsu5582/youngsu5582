@@ -21,7 +21,7 @@
       </a>
     </td>
     <td style="text-align:center; vertical-align:middle; border-bottom:1px solid #87CEFA; font-weight:bold;">
-      Yesterday: <strong>0</strong> | Total: <strong>2876</strong>
+      Yesterday: <strong>0</strong> | Total: <strong>2877</strong>
     </td>
   </tr>
   <tr>
@@ -33,16 +33,16 @@
           <th align="center">Date</th>
         </tr>
         <tr>
+          <td align="center"><a href="https://youngsu5582.today/posts/createdat-with-transaction">created_at 의 논리적 단위</a></td>
+          <td align="center">2026-05-25</td>
+        </tr>
+        <tr>
           <td align="center"><a href="https://youngsu5582.today/posts/order-data-handling">순서가 필요한 데이터를 다루는 법</a></td>
           <td align="center">2026-04-23</td>
         </tr>
         <tr>
           <td align="center"><a href="https://youngsu5582.today/posts/credit-paid-issue-retrospective">결제 크레딧 충전, 환불 파이프라인을 구축후 회고</a></td>
           <td align="center">2026-04-11</td>
-        </tr>
-        <tr>
-          <td align="center"><a href="https://youngsu5582.today/posts/blog-migration-to-custom-blog">블로그 마이그레이션 (jekyll -> custom blog)</a></td>
-          <td align="center">2026-03-23</td>
         </tr>
       </table>
     </td>
@@ -57,6 +57,11 @@
           <th align="center">Date</th>
         </tr>
         <tr>
+          <td align="center"><a href="https://youngsu5582.today/notes/createdat-with-transaction">created_at 의 논리적 단위</a></td>
+          <td align="center">server-case · timestamp</td>
+          <td align="center">2026-05-25</td>
+        </tr>
+        <tr>
           <td align="center"><a href="https://youngsu5582.today/notes/openclaw-slack-bot-scopes">OpenClaw Slack Bot 권한 정리</a></td>
           <td align="center">openclaw · slack</td>
           <td align="center">2026-04-30</td>
@@ -65,11 +70,6 @@
           <td align="center"><a href="https://youngsu5582.today/notes/redis-eviction">Redis 의 Eviction</a></td>
           <td align="center">redis · redis-eviction</td>
           <td align="center">2026-04-11</td>
-        </tr>
-        <tr>
-          <td align="center"><a href="https://youngsu5582.today/notes/java-sortedmap-navigablemap">Java 의 SortedMap, NavigableMap</a></td>
-          <td align="center">map · sortedmap</td>
-          <td align="center">2026-04-05</td>
         </tr>
       </table>
     </td>
