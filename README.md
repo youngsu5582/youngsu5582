@@ -33,8 +33,8 @@
           <th align="center">Date</th>
         </tr>
         <tr>
-          <td align="center"><a href="https://youngsu5582.today/posts/createdat-with-transaction">created_at 의 논리적 단위</a></td>
-          <td align="center">2026-05-25</td>
+          <td align="center"><a href="https://youngsu5582.today/posts/homeserver-setup">홈서버를 왜 만들고, 어떻게 준비했나</a></td>
+          <td align="center">2026-05-30</td>
         </tr>
         <tr>
           <td align="center"><a href="https://youngsu5582.today/posts/order-data-handling">순서가 필요한 데이터를 다루는 법</a></td>
