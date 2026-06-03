@@ -20,7 +20,6 @@ def build_markdown_card(posts, notes, tags):
              alt="Blog"
              style="vertical-align:middle;" />
       </a>
-      <span style="margin-left:8px; font-weight:bold;">Backend notes, retrospectives, and homelab logs</span>
     </td>
   </tr>"""
 
