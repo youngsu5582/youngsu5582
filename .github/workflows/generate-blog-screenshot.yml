@@ -27,9 +27,6 @@ jobs:
           pip install -r scripts/requirements.txt
 
       - name: Generate Blog section Markdown
-        env:
-          GA_SERVICE_ACCOUNT_JSON: ${{ secrets.GA_SERVICE_ACCOUNT_JSON }}
-          GA_PROPERTY_ID: ${{ secrets.GA_PROPERTY_ID }}
         run: python scripts/generate-blog-readme.py > blog_section.md
 
       - name: Replace README Blog section
