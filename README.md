@@ -13,15 +13,13 @@
 
 <table cellpadding="8" cellspacing="0" style="border:1px solid #87CEFA; border-radius:8px; width:100%; max-width:600px; font-family:sans-serif;">
   <tr style="background:#F0F8FF;">
-    <td style="text-align:center; vertical-align:middle; border-bottom:1px solid #87CEFA;">
+    <td colspan="2" style="text-align:center; vertical-align:middle; border-bottom:1px solid #87CEFA;">
       <a href="https://youngsu5582.today">
         <img src="https://img.shields.io/badge/Blog-youngsu5582.today-87CEFA?style=flat-square"
              alt="Blog"
-             style="display:block; margin:0 auto;" />
+             style="vertical-align:middle;" />
       </a>
-    </td>
-    <td style="text-align:center; vertical-align:middle; border-bottom:1px solid #87CEFA; font-weight:bold;">
-      Yesterday Views: <strong>2</strong> | Total Views: <strong>6496</strong>
+      <span style="margin-left:8px; font-weight:bold;">Backend notes, retrospectives, and homelab logs</span>
     </td>
   </tr>
   <tr>
