@@ -21,7 +21,7 @@
       </a>
     </td>
     <td style="text-align:center; vertical-align:middle; border-bottom:1px solid #87CEFA; font-weight:bold;">
-      Yesterday: <strong>0</strong> | Total: <strong>2880</strong>
+      Yesterday Views: <strong>2</strong> | Total Views: <strong>6496</strong>
     </td>
   </tr>
   <tr>
