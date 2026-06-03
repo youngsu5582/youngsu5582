@@ -2,6 +2,7 @@ import requests
 import urllib.parse
 import os
 import json
+import sys
 
 from google.analytics.data import BetaAnalyticsDataClient
 from google.analytics.data import RunReportRequest, DateRange, Metric
@@ -14,7 +15,7 @@ POST_COUNT = 3
 NOTE_COUNT = 3
 TAG_COUNT = 5
 
-def build_markdown_card(posts, notes, tags, today, total):
+def build_markdown_card(posts, notes, tags, yesterday_views, total_views):
     # Header + Visitors
     header = f"""
 <table cellpadding="8" cellspacing="0" style="border:1px solid #87CEFA; border-radius:8px; width:100%; max-width:600px; font-family:sans-serif;">
@@ -27,7 +28,7 @@ def build_markdown_card(posts, notes, tags, today, total):
       </a>
     </td>
     <td style="text-align:center; vertical-align:middle; border-bottom:1px solid #87CEFA; font-weight:bold;">
-      Yesterday: <strong>{today}</strong> | Total: <strong>{total}</strong>
+      Yesterday Views: <strong>{yesterday_views}</strong> | Total Views: <strong>{total_views}</strong>
     </td>
   </tr>"""
 
@@ -120,47 +121,35 @@ def get_ga_property_id():
     except FileNotFoundError:
         return None
 
-def get_today_visitors():
+def get_ga_page_views(start_date, end_date):
+    """Fetches GA4 page views for the given date range."""
     property_id = get_ga_property_id()
     credentials_info = get_ga_credentials()
 
     if not property_id or not credentials_info:
-        print("Error: GA credentials or Property ID not found.")
+        print("Error: GA credentials or Property ID not found.", file=sys.stderr)
         return 0
 
     client = BetaAnalyticsDataClient.from_service_account_info(credentials_info)
     request = RunReportRequest(
         property=f"properties/{property_id}",
-        metrics=[Metric(name="activeUsers")],
-        date_ranges=[DateRange(start_date="today", end_date="today")],
+        metrics=[Metric(name="screenPageViews")],
+        date_ranges=[DateRange(start_date=start_date, end_date=end_date)],
     )
     response = client.run_report(request)
     if response.rows:
         return int(response.rows[0].metric_values[0].value)
     return 0
 
-def get_total_visitors():
-    property_id = get_ga_property_id()
-    credentials_info = get_ga_credentials()
+def get_yesterday_page_views():
+    return get_ga_page_views("yesterday", "yesterday")
 
-    if not property_id or not credentials_info:
-        print("Error: GA credentials or Property ID not found.")
-        return 0
-
-    client = BetaAnalyticsDataClient.from_service_account_info(credentials_info)
-    request = RunReportRequest(
-        property=f"properties/{property_id}",
-        metrics=[Metric(name="totalUsers")],
-        date_ranges=[DateRange(start_date="2020-01-01", end_date="today")],
-    )
-    response = client.run_report(request)
-    if response.rows:
-        return int(response.rows[0].metric_values[0].value)
-    return 0
+def get_total_page_views():
+    return get_ga_page_views("2020-01-01", "today")
 
 if __name__ == "__main__":
     posts, notes, tags = get_blog_stats(POST_COUNT, NOTE_COUNT, TAG_COUNT)
-    ga_today_users = get_today_visitors()
-    ga_total_users = get_total_visitors()
-    md = build_markdown_card(posts, notes, tags, ga_today_users, ga_total_users)
+    ga_yesterday_views = get_yesterday_page_views()
+    ga_total_views = get_total_page_views()
+    md = build_markdown_card(posts, notes, tags, ga_yesterday_views, ga_total_views)
     print(md)
