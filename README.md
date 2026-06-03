@@ -10,71 +10,14 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white)
 
 ## 블로그
+[Blog](https://youngsu5582.today)
 
-<table cellpadding="8" cellspacing="0" style="border:1px solid #87CEFA; border-radius:8px; width:100%; max-width:600px; font-family:sans-serif;">
-  <tr style="background:#F0F8FF;">
-    <td colspan="2" style="text-align:center; vertical-align:middle; border-bottom:1px solid #87CEFA;">
-      <a href="https://youngsu5582.today">
-        <img src="https://img.shields.io/badge/Blog-youngsu5582.today-87CEFA?style=flat-square"
-             alt="Blog"
-             style="vertical-align:middle;" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" style="padding-top:12px;">
-      <strong>📝 Latest Posts</strong>
-      <table cellpadding="6" cellspacing="0" style="width:100%; margin-top:8px; border-collapse:collapse;">
-        <tr style="background:#AAD1E7;">
-          <th align="center">Title</th>
-          <th align="center">Date</th>
-        </tr>
-        <tr>
-          <td align="center"><a href="https://youngsu5582.today/posts/homeserver-setup">홈서버를 왜 만들고, 어떻게 준비했나</a></td>
-          <td align="center">2026-05-30</td>
-        </tr>
-        <tr>
-          <td align="center"><a href="https://youngsu5582.today/posts/order-data-handling">순서가 필요한 데이터를 다루는 법</a></td>
-          <td align="center">2026-04-23</td>
-        </tr>
-        <tr>
-          <td align="center"><a href="https://youngsu5582.today/posts/credit-paid-issue-retrospective">결제 크레딧 충전, 환불 파이프라인을 구축후 회고</a></td>
-          <td align="center">2026-04-11</td>
-        </tr>
-      </table>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" style="padding-top:12px;">
-      <strong>📓 Recent Notes</strong>
-      <table cellpadding="6" cellspacing="0" style="width:100%; margin-top:8px; border-collapse:collapse;">
-        <tr style="background:#AAD1E7;">
-          <th align="center">Title</th>
-          <th align="center">Tags</th>
-          <th align="center">Date</th>
-        </tr>
-        <tr>
-          <td align="center"><a href="https://youngsu5582.today/notes/createdat-with-transaction">created_at 의 논리적 단위</a></td>
-          <td align="center">server-case · timestamp</td>
-          <td align="center">2026-05-25</td>
-        </tr>
-        <tr>
-          <td align="center"><a href="https://youngsu5582.today/notes/openclaw-slack-bot-scopes">OpenClaw Slack Bot 권한 정리</a></td>
-          <td align="center">openclaw · slack</td>
-          <td align="center">2026-04-30</td>
-        </tr>
-        <tr>
-          <td align="center"><a href="https://youngsu5582.today/notes/redis-eviction">Redis 의 Eviction</a></td>
-          <td align="center">redis · redis-eviction</td>
-          <td align="center">2026-04-11</td>
-        </tr>
-      </table>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" style="padding-top:14px;">
-      <strong>🔖 Top Tags</strong><br/>
-      <a href="https://youngsu5582.today/tags/%EC%9A%B0%ED%85%8C%EC%BD%94/"><img src="https://img.shields.io/badge/%EC%9A%B0%ED%85%8C%EC%BD%94%20%2839%29-87CEFA?style=flat-square" alt="우테코"/></a> <a href="https://youngsu5582.today/tags/%EC%8A%A4%ED%94%84%EB%A7%81/"><img src="https://img.shields.io/badge/%EC%8A%A4%ED%94%84%EB%A7%81%20%289%29-87CEFA?style=flat-square" alt="스프링"/></a> <a href="https://youngsu5582.today/tags/%ED%9A%8C%EA%B3%A0/"><img src="https://img.shields.io/badge/%ED%9A%8C%EA%B3%A0%20%286%29-87CEFA?style=flat-square" alt="회고"/></a> <a href="https://youngsu5582.today/tags/%EC%9E%90%EB%B0%94/"><img src="https://img.shields.io/badge/%EC%9E%90%EB%B0%94%20%285%29-87CEFA?style=flat-square" alt="자바"/></a> <a href="https://youngsu5582.today/tags/type/guide/"><img src="https://img.shields.io/badge/type/guide%20%285%29-87CEFA?style=flat-square" alt="type/guide"/></a>
-    </td>
-  </tr>
-</table>
+**Latest Posts**
+- [홈서버를 왜 만들고, 어떻게 준비했나](https://youngsu5582.today/posts/homeserver-setup) · 26.05.30
+- [순서가 필요한 데이터를 다루는 법](https://youngsu5582.today/posts/order-data-handling) · 26.04.23
+- [결제 크레딧 충전, 환불 파이프라인을 구축후 회고](https://youngsu5582.today/posts/credit-paid-issue-retrospective) · 26.04.11
+
+**Recent Notes**
+- [created_at 의 논리적 단위](https://youngsu5582.today/notes/createdat-with-transaction) · server-case, timestamp · 26.05.25
+- [OpenClaw Slack Bot 권한 정리](https://youngsu5582.today/notes/openclaw-slack-bot-scopes) · openclaw, slack · 26.04.30
+- [Redis 의 Eviction](https://youngsu5582.today/notes/redis-eviction) · redis, redis-eviction · 26.04.11
