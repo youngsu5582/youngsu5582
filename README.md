@@ -13,11 +13,11 @@
 [Blog](https://youngsu5582.today)
 
 **Latest Posts**
-- [홈서버에 Docker로 self-hosted 서비스들을 올려보기](https://youngsu5582.today/posts/homeserver-docker-self-hosted-services) · 26.05.31
-- [홈서버를 왜 만들고, 어떻게 준비했나](https://youngsu5582.today/posts/homeserver-setup) · 26.05.30
-- [순서가 필요한 데이터를 다루는 법](https://youngsu5582.today/posts/order-data-handling) · 26.04.23
+- [홈서버에 Docker로 self-hosted 서비스들을 올려보기](https://www.youngsu5582.today/posts/homeserver-docker-self-hosted-services) · 26.05.31
+- [홈서버를 왜 만들고, 어떻게 준비했나](https://www.youngsu5582.today/posts/homeserver-setup) · 26.05.30
+- [순서가 필요한 데이터를 다루는 법](https://www.youngsu5582.today/posts/order-data-handling) · 26.04.23
 
 **Recent Notes**
-- [created_at 의 논리적 단위](https://youngsu5582.today/notes/createdat-with-transaction) · server-case, timestamp · 26.05.25
-- [OpenClaw Slack Bot 권한 정리](https://youngsu5582.today/notes/openclaw-slack-bot-scopes) · openclaw, slack · 26.04.30
-- [Redis 의 Eviction](https://youngsu5582.today/notes/redis-eviction) · redis, redis-eviction · 26.04.11
+- [created_at 의 논리적 단위](https://www.youngsu5582.today/notes/createdat-with-transaction) · server-case, timestamp · 26.05.25
+- [OpenClaw Slack Bot 권한 정리](https://www.youngsu5582.today/notes/openclaw-slack-bot-scopes) · openclaw, slack · 26.04.30
+- [Redis 의 Eviction](https://www.youngsu5582.today/notes/redis-eviction) · redis, redis-eviction · 26.04.11
