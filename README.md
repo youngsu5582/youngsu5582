@@ -13,9 +13,9 @@
 [Blog](https://youngsu5582.today)
 
 **Latest Posts**
+- [수많은 이력서를 보며 느낀 것들](https://www.youngsu5582.today/posts/reviewing-resumes-as-a-backend-developer) · 26.06.20
 - [홈서버에 Docker로 self-hosted 서비스들을 올려보기](https://www.youngsu5582.today/posts/homeserver-docker-self-hosted-services) · 26.05.31
 - [홈서버를 왜 만들고, 어떻게 준비했나](https://www.youngsu5582.today/posts/homeserver-setup) · 26.05.30
-- [순서가 필요한 데이터를 다루는 법](https://www.youngsu5582.today/posts/order-data-handling) · 26.04.23
 
 **Recent Notes**
 - [created_at 의 논리적 단위](https://www.youngsu5582.today/notes/createdat-with-transaction) · server-case, timestamp · 26.05.25
