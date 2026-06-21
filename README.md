@@ -18,6 +18,6 @@
 - [홈서버를 왜 만들고, 어떻게 준비했나](https://www.youngsu5582.today/posts/homeserver-setup) · 26.05.30
 
 **Recent Notes**
+- [ALB 규칙](https://www.youngsu5582.today/notes/alb-rule) · alb, aws · 26.06.21
+- [ALB 로그](https://www.youngsu5582.today/notes/alb-log) · alb, aws · 26.06.21
 - [created_at 의 논리적 단위](https://www.youngsu5582.today/notes/createdat-with-transaction) · server-case, timestamp · 26.05.25
-- [OpenClaw Slack Bot 권한 정리](https://www.youngsu5582.today/notes/openclaw-slack-bot-scopes) · openclaw, slack · 26.04.30
-- [Redis 의 Eviction](https://www.youngsu5582.today/notes/redis-eviction) · redis, redis-eviction · 26.04.11
