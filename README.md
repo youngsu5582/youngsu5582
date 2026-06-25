@@ -13,11 +13,11 @@
 [Blog](https://youngsu5582.today)
 
 **Latest Posts**
-- [CloudFront](https://www.youngsu5582.today/posts/cloudfront) · 26.06.23
 - [수많은 이력서를 보며 느낀 것들](https://www.youngsu5582.today/posts/reviewing-resumes-as-a-backend-developer) · 26.06.20
 - [홈서버에 Docker로 self-hosted 서비스들을 올려보기](https://www.youngsu5582.today/posts/homeserver-docker-self-hosted-services) · 26.05.31
+- [홈서버를 왜 만들고, 어떻게 준비했나](https://www.youngsu5582.today/posts/homeserver-setup) · 26.05.30
 
 **Recent Notes**
+- [CloudFront](https://www.youngsu5582.today/notes/cloudfront) · cloudfront, aws · 26.06.23
 - [ALB 규칙](https://www.youngsu5582.today/notes/alb-rule) · alb, aws · 26.06.21
 - [ALB 로그](https://www.youngsu5582.today/notes/alb-log) · alb, aws · 26.06.21
-- [created_at 의 논리적 단위](https://www.youngsu5582.today/notes/createdat-with-transaction) · server-case, timestamp · 26.05.25
