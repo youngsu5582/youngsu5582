@@ -13,9 +13,9 @@
 [Blog](https://youngsu5582.today)
 
 **Latest Posts**
+- [ECS 서버가 정상인데 재배포된 이유 - healthCheckGracePeriodSeconds와 ECS 의 헬스 체크](https://www.youngsu5582.today/posts/ecs-deploy-health-check) · 26.06.28
 - [수많은 이력서를 보며 느낀 것들](https://www.youngsu5582.today/posts/reviewing-resumes-as-a-backend-developer) · 26.06.20
 - [홈서버에 Docker로 self-hosted 서비스들을 올려보기](https://www.youngsu5582.today/posts/homeserver-docker-self-hosted-services) · 26.05.31
-- [홈서버를 왜 만들고, 어떻게 준비했나](https://www.youngsu5582.today/posts/homeserver-setup) · 26.05.30
 
 **Recent Notes**
 - [CloudFront](https://www.youngsu5582.today/notes/cloudfront) · cloudfront, aws · 26.06.23
