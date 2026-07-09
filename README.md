@@ -13,11 +13,11 @@
 [Blog](https://youngsu5582.today)
 
 **Latest Posts**
+- [Spring Boot 3.5로 올렸더니 multipart 요청이 터진 이야기](https://www.youngsu5582.today/posts/spring-boot-3-5-multipart-request-broken-by-tomcat-part-limit) · 26.07.06
 - [홈서버를 Cloudflare Tunnel과 Access로 안전하게 열어보기](https://www.youngsu5582.today/posts/homeserver-cloudflare-tunnel-access) · 26.06.30
 - [ECS 서버가 정상인데 재배포된 이유 - healthCheckGracePeriodSeconds와 ECS 의 헬스 체크](https://www.youngsu5582.today/posts/ecs-deploy-health-check) · 26.06.28
-- [수많은 이력서를 보며 느낀 것들](https://www.youngsu5582.today/posts/reviewing-resumes-as-a-backend-developer) · 26.06.20
 
 **Recent Notes**
+- [락 - 낙관적 락과 비관적 락](https://www.youngsu5582.today/notes/lock-optimistic-and-pessimistic) · lock, optimistic-lock · 26.07.09
 - [CloudFront](https://www.youngsu5582.today/notes/cloudfront) · cloudfront, aws · 26.06.23
 - [ALB 규칙](https://www.youngsu5582.today/notes/alb-rule) · alb, aws · 26.06.21
-- [ALB 로그](https://www.youngsu5582.today/notes/alb-log) · alb, aws · 26.06.21
