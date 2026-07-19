@@ -13,9 +13,9 @@
 [Blog](https://youngsu5582.today)
 
 **Latest Posts**
+- [결제 크레딧 시스템 - 성공 응답보다 최종 상태를 먼저 설계한 이유](https://www.youngsu5582.today/posts/payment-credit-system-final-state-design) · 26.07.19
 - [서버 탓인가, 클라이언트 탓인가 — 이미지 업로드 시간 측정기 구현](https://www.youngsu5582.today/posts/image-upload-timing-measurement) · 26.07.16
 - [Spring Boot 3.5로 올렸더니 multipart 요청이 터진 이야기](https://www.youngsu5582.today/posts/spring-boot-3-5-multipart-request-broken-by-tomcat-part-limit) · 26.07.06
-- [홈서버를 Cloudflare Tunnel과 Access로 안전하게 열어보기](https://www.youngsu5582.today/posts/homeserver-cloudflare-tunnel-access) · 26.06.30
 
 **Recent Notes**
 - [락 - 낙관적 락과 비관적 락](https://www.youngsu5582.today/notes/lock-optimistic-and-pessimistic) · lock, optimistic-lock · 26.07.09
