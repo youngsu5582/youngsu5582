@@ -18,6 +18,6 @@
 - [Spring Boot 3.5로 올렸더니 multipart 요청이 터진 이야기](https://www.youngsu5582.today/posts/spring-boot-3-5-multipart-request-broken-by-tomcat-part-limit) · 26.07.06
 
 **Recent Notes**
+- [Good Code - 규약과 구조](https://www.youngsu5582.today/notes/good-code-contract-and-structure) · clean-code, java · 26.07.28
 - [쿠버네티스](https://www.youngsu5582.today/notes/kubernetes-intro) · kubernetes, infra · 26.07.23
 - [락 - 낙관적 락과 비관적 락](https://www.youngsu5582.today/notes/lock-optimistic-and-pessimistic) · lock, optimistic-lock · 26.07.09
-- [CloudFront](https://www.youngsu5582.today/notes/cloudfront) · cloudfront, aws · 26.06.23
