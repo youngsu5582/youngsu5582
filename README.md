@@ -13,9 +13,9 @@
 [Blog](https://youngsu5582.today)
 
 **Latest Posts**
+- [S3 업로드 재시도가 아무 일도 하지 않은 이유](https://www.youngsu5582.today/posts/s3-upload-retry-dns-cache) · 26.07.28
 - [결제 크레딧 시스템 - 성공 응답보다 최종 상태를 먼저 설계한 이유](https://www.youngsu5582.today/posts/payment-credit-system-final-state-design) · 26.07.19
 - [서버 탓인가, 클라이언트 탓인가 — 이미지 업로드 시간 측정기 구현](https://www.youngsu5582.today/posts/image-upload-timing-measurement) · 26.07.16
-- [Spring Boot 3.5로 올렸더니 multipart 요청이 터진 이야기](https://www.youngsu5582.today/posts/spring-boot-3-5-multipart-request-broken-by-tomcat-part-limit) · 26.07.06
 
 **Recent Notes**
 - [base64 는 왜 정확히 33% 를 증가시킬까](https://www.youngsu5582.today/notes/base64-33-percent-overhead) · base64, encoding · 26.07.31
