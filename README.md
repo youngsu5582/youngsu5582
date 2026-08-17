@@ -18,6 +18,6 @@
 - [서버 탓인가, 클라이언트 탓인가 — 이미지 업로드 시간 측정기 구현](https://www.youngsu5582.today/posts/image-upload-timing-measurement) · 26.07.16
 
 **Recent Notes**
+- [Good Code - 컨트롤러는 왜 있는가](https://www.youngsu5582.today/notes/why-does-controller-exist) · clean-code, controller · 26.08.17
 - [base64 는 왜 정확히 33% 를 증가시킬까](https://www.youngsu5582.today/notes/base64-33-percent-overhead) · base64, encoding · 26.07.31
 - [Good Code - 규약과 구조](https://www.youngsu5582.today/notes/good-code-contract-and-structure) · clean-code, java · 26.07.28
-- [쿠버네티스](https://www.youngsu5582.today/notes/kubernetes-intro) · kubernetes, infra · 26.07.23
