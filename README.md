@@ -18,6 +18,6 @@
 - [서버 탓인가, 클라이언트 탓인가 — 이미지 업로드 시간 측정기 구현](https://www.youngsu5582.today/posts/image-upload-timing-measurement) · 26.07.16
 
 **Recent Notes**
+- [Zero Copy](https://www.youngsu5582.today/notes/zero-copy) · kafka, zero-copy · 26.08.24
 - [GoodCode ENUM Set 을 지정할 때 EnumSet.of 와 Set.of 를 쓸때 차이점](https://www.youngsu5582.today/notes/enum-of-and-set-of) · java, enum · 26.08.22
 - [Next.js Image](https://www.youngsu5582.today/notes/next-image) · nextjs, image-optimization · 26.08.18
-- [Good Code - 컨트롤러는 왜 있는가](https://www.youngsu5582.today/notes/why-does-controller-exist) · clean-code, controller · 26.08.17
