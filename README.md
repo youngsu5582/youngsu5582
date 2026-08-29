@@ -13,11 +13,11 @@
 [Blog](https://youngsu5582.today)
 
 **Latest Posts**
-- [Sync, Async, Non-Blocking, Blocking](https://www.youngsu5582.today/posts/sync-async-non-blocking-blocking) · 26.08.28
 - [S3 업로드 재시도가 아무 일도 하지 않은 이유](https://www.youngsu5582.today/posts/s3-upload-retry-dns-cache) · 26.08.09
 - [결제 크레딧 시스템 - 성공 응답보다 최종 상태를 먼저 설계한 이유](https://www.youngsu5582.today/posts/payment-credit-system-final-state-design) · 26.07.20
+- [서버 탓인가, 클라이언트 탓인가 — 이미지 업로드 시간 측정기 구현](https://www.youngsu5582.today/posts/image-upload-timing-measurement) · 26.07.16
 
 **Recent Notes**
+- [Sync, Async, Non-Blocking, Blocking](https://www.youngsu5582.today/notes/sync-async-non-blocking-blocking) · async, sync · 26.08.28
 - [Zero Copy](https://www.youngsu5582.today/notes/zero-copy) · kafka, zero-copy · 26.08.24
 - [GoodCode ENUM Set 을 지정할 때 EnumSet.of 와 Set.of 를 쓸때 차이점](https://www.youngsu5582.today/notes/enum-of-and-set-of) · java, enum · 26.08.22
-- [Next.js Image](https://www.youngsu5582.today/notes/next-image) · nextjs, image-optimization · 26.08.18
