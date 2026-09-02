@@ -18,6 +18,6 @@
 - [결제 크레딧 시스템 - 성공 응답보다 최종 상태를 먼저 설계한 이유](https://www.youngsu5582.today/posts/payment-credit-system-final-state-design) · 26.07.20
 
 **Recent Notes**
+- [Kafka Sticky Partitioner와 Producer Send](https://www.youngsu5582.today/notes/kafka-sticky-partitioner) · kafka, producer · 26.09.02
 - [Sync, Async, Non-Blocking, Blocking](https://www.youngsu5582.today/notes/sync-async-non-blocking-blocking) · async, sync · 26.08.28
 - [Zero Copy](https://www.youngsu5582.today/notes/zero-copy) · kafka, zero-copy · 26.08.24
-- [GoodCode ENUM Set 을 지정할 때 EnumSet.of 와 Set.of 를 쓸때 차이점](https://www.youngsu5582.today/notes/enum-of-and-set-of) · java, enum · 26.08.22
