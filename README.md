@@ -18,6 +18,6 @@
 - [결제 크레딧 시스템 - 성공 응답보다 최종 상태를 먼저 설계한 이유](https://www.youngsu5582.today/posts/payment-credit-system-final-state-design) · 26.07.20
 
 **Recent Notes**
+- [Java Map 메서드의 기존 값·새 값·계산 결과](https://www.youngsu5582.today/notes/java-map-method-values) · java, map · 26.09.06
 - [Kafka ACKS와 min.insync.replicas](https://www.youngsu5582.today/notes/kafka-acks-min-insync-replicas) · kafka, producer · 26.09.03
 - [Kafka Sticky Partitioner와 Producer Send](https://www.youngsu5582.today/notes/kafka-sticky-partitioner) · kafka, producer · 26.09.02
-- [Sync, Async, Non-Blocking, Blocking](https://www.youngsu5582.today/notes/sync-async-non-blocking-blocking) · async, sync · 26.08.28
