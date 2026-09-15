@@ -18,6 +18,6 @@
 - [결제 크레딧 시스템 - 성공 응답보다 최종 상태를 먼저 설계한 이유](https://www.youngsu5582.today/posts/payment-credit-system-final-state-design) · 26.07.20
 
 **Recent Notes**
+- [PostgreSQL 프로세스·공유 메모리·파일 구조](https://www.youngsu5582.today/notes/postgresql-processes-shared-memory-wal) · postgresql, postgresql-core · 26.09.15
 - [Vercel Deployment Storage 정리](https://www.youngsu5582.today/notes/vercel-deployment-storage) · vercel, deployment-storage · 26.09.09
 - [Java Map 메서드의 기존 값·새 값·계산 결과](https://www.youngsu5582.today/notes/java-map-method-values) · java, map · 26.09.06
-- [Kafka ACKS와 min.insync.replicas](https://www.youngsu5582.today/notes/kafka-acks-min-insync-replicas) · kafka, producer · 26.09.03
