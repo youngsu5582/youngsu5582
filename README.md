@@ -18,6 +18,6 @@
 - [결제 크레딧 시스템 - 성공 응답보다 최종 상태를 먼저 설계한 이유](https://www.youngsu5582.today/posts/payment-credit-system-final-state-design) · 26.07.20
 
 **Recent Notes**
+- [ArchUnit으로 코드 구조 규칙을 테스트로 강제하기](https://www.youngsu5582.today/notes/archunit-architecture-rules) · archunit, architecture-test · 26.10.03
 - [Info Metric으로 문자열 메타데이터를 메트릭에 결합하기](https://www.youngsu5582.today/notes/info-metric) · prometheus, openmetrics · 26.10.02
 - [PostgreSQL 프로세스·공유 메모리·파일 구조](https://www.youngsu5582.today/notes/postgresql-processes-shared-memory-wal) · postgresql, postgresql-core · 26.09.15
-- [Vercel Deployment Storage 정리](https://www.youngsu5582.today/notes/vercel-deployment-storage) · vercel, deployment-storage · 26.09.09
