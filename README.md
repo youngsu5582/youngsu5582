@@ -13,9 +13,9 @@
 [Blog](https://youngsu5582.today)
 
 **Latest Posts**
+- [Claude Code Mod에 대해 알아보고, 예제 코드 작성해보기](https://www.youngsu5582.today/posts/claude-code-mod-tool-control) · 26.10.09
 - [Strong ETag 와 Compression in Spring Boot(Tomcat)](https://www.youngsu5582.today/posts/strong-etag-compression-spring-boot-tomcat) · 26.08.29
 - [S3 업로드 재시도가 아무 일도 하지 않은 이유](https://www.youngsu5582.today/posts/s3-upload-retry-dns-cache) · 26.08.09
-- [결제 크레딧 시스템 - 성공 응답보다 최종 상태를 먼저 설계한 이유](https://www.youngsu5582.today/posts/payment-credit-system-final-state-design) · 26.07.20
 
 **Recent Notes**
 - [Vercel Image Optimization, Transformation 정리](https://www.youngsu5582.today/notes/vercel-image-optimization) · vercel, image-optimization · 26.10.06
