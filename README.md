@@ -4,7 +4,7 @@ AI 로 빨라질수록, 코드를 판단하는 눈이 더 중요해진다고 생
 - **규칙은 기계가 지키게** — 규칙을 글로만 두면 낡아서, 테스트와 훅이 지키게 두는 걸 좋아해요.
 - **"왜 안 되지" 를 끝까지** — 원인을 바닥까지 파고, 그 과정을 블로그에 기록해요.
 - **만든 걸 직접 써요** — 미니 PC 홈서버에서 self-hosted 서비스와 Hermes 에이전트를 운영하고,
-  [블로그](https://github.com/youngsu5582/youngsu-blog)도 직접 만들어 써요.
+  [블로그](https://github.com/youngsu5582/youngsu-blog)도 직접 만들어 써요.  
   지금은 그 서비스들이 함께 쓸 [AI 작업 API 서버](https://github.com/youngsu5582/personal-ai-workbench)를 만들어요.
 
 <h3 align="left">기술스택 </h3>
