@@ -22,9 +22,9 @@ AI 로 빨라질수록, 코드를 판단하는 눈이 더 중요해진다고 생
 [Blog](https://youngsu5582.today)
 
 **Latest Posts**
+- [우아콘 2026 을 다녀오고](https://www.youngsu5582.today/posts/woowacon-2026-reflections) · 26.11.08
 - [종료를 기다리게 했는데도 @Async 작업이 실패한 이유](https://www.youngsu5582.today/posts/spring-shutdown-async-pool-waiting) · 26.10.31
 - [Spring 은 어떻게 꺼지는가 — 종료 3단계 분석하기](https://www.youngsu5582.today/posts/spring-shutdown-3-stages-and-lifecycle-phases) · 26.10.23
-- [CORS 에러인 줄 알았던 400 — Tomcat 이 앞에서 끊은 요청을 Valve 로 기록하기](https://www.youngsu5582.today/posts/tomcat-valve-logging-requests-rejected-before-app) · 26.10.13
 
 **Recent Notes**
 - [Spring Proxy](https://www.youngsu5582.today/notes/spring-proxy) · spring, spring-aop · 26.11.01
