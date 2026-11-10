@@ -27,6 +27,6 @@ AI 로 빨라질수록, 코드를 판단하는 눈이 더 중요해진다고 생
 - [Spring 은 어떻게 꺼지는가 — 종료 3단계 분석하기](https://www.youngsu5582.today/posts/spring-shutdown-3-stages-and-lifecycle-phases) · 26.10.23
 
 **Recent Notes**
+- [Rate Limiter](https://www.youngsu5582.today/notes/rate-limiter) · redis, 동시성 · 26.11.10
 - [Spring Proxy](https://www.youngsu5582.today/notes/spring-proxy) · spring, spring-aop · 26.11.01
 - [낙관적 락, 낙관적 락의 자동 재시도](https://www.youngsu5582.today/notes/optimistic-lock-retry) · optimistic-lock, optimistic-lock-retry · 26.11.01
-- [Vercel Image Optimization, Transformation 정리](https://www.youngsu5582.today/notes/vercel-image-optimization) · vercel, image-optimization · 26.10.06
