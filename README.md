@@ -22,11 +22,11 @@ AI 로 빨라질수록, 코드를 판단하는 눈이 더 중요해진다고 생
 [Blog](https://youngsu5582.today)
 
 **Latest Posts**
+- [KRaft 는 어떻게 생겼나 - ZooKeeper 를 걷어낸 Kafka 의 메타데이터 구조](https://www.youngsu5582.today/posts/kafka-kraft) · 26.11.16
+- [AI 시대에 사이드 프로젝트를 한다는 것](https://www.youngsu5582.today/posts/side-project-of-ai-era) · 26.11.14
 - [우아콘 2026 을 다녀오고](https://www.youngsu5582.today/posts/woowacon-2026-reflections) · 26.11.08
-- [종료를 기다리게 했는데도 @Async 작업이 실패한 이유](https://www.youngsu5582.today/posts/spring-shutdown-async-pool-waiting) · 26.10.31
-- [Spring 은 어떻게 꺼지는가 — 종료 3단계 분석하기](https://www.youngsu5582.today/posts/spring-shutdown-3-stages-and-lifecycle-phases) · 26.10.23
 
 **Recent Notes**
-- [Rate Limiter](https://www.youngsu5582.today/notes/rate-limiter) · redis, 동시성 · 26.11.10
-- [Spring Proxy](https://www.youngsu5582.today/notes/spring-proxy) · spring, spring-aop · 26.11.01
-- [낙관적 락, 낙관적 락의 자동 재시도](https://www.youngsu5582.today/notes/optimistic-lock-retry) · optimistic-lock, optimistic-lock-retry · 26.11.01
+- [Github 규칙 검사가 도중 추가될 때 동작하는 방식](https://www.youngsu5582.today/notes/github-rule-check) · github, repository-rules · 26.11.16
+- [Vercel Fluid Active CPU & Prefetch](https://www.youngsu5582.today/notes/vercel-cpu-and-prefetch) · vercel, fluid-cpu · 26.11.15
+- [Good Code - 서비스 메소드에 throws Exception 을 추가하지 말자 (feat. @Transactional)](https://www.youngsu5582.today/notes/good-code-throws-exception) · clean-code, exception · 26.11.11
