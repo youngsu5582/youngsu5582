@@ -27,6 +27,6 @@ AI 로 빨라질수록, 코드를 판단하는 눈이 더 중요해진다고 생
 - [우아콘 2026 을 다녀오고](https://www.youngsu5582.today/posts/woowacon-2026-reflections) · 26.11.08
 
 **Recent Notes**
+- [well-known 과 oauth authorization server](https://www.youngsu5582.today/notes/well-known) · http, auth · 26.11.18
 - [Github 규칙 검사가 도중 추가될 때 동작하는 방식](https://www.youngsu5582.today/notes/github-rule-check) · github, repository-rules · 26.11.16
 - [Vercel Fluid Active CPU & Prefetch](https://www.youngsu5582.today/notes/vercel-cpu-and-prefetch) · vercel, fluid-cpu · 26.11.15
-- [Good Code - 서비스 메소드에 throws Exception 을 추가하지 말자 (feat. @Transactional)](https://www.youngsu5582.today/notes/good-code-throws-exception) · clean-code, exception · 26.11.11
