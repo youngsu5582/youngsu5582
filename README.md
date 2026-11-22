@@ -22,9 +22,9 @@ AI 로 빨라질수록, 코드를 판단하는 눈이 더 중요해진다고 생
 [Blog](https://youngsu5582.today)
 
 **Latest Posts**
+- [Claude Code 하네스 구축기(1) - 폴더 구조와 hook 으로 규칙 지키게 하기](https://www.youngsu5582.today/posts/harness-first-folder-and-hooks) · 26.11.22
 - [KRaft 는 어떻게 생겼나 - ZooKeeper 를 걷어낸 Kafka 의 메타데이터 구조](https://www.youngsu5582.today/posts/kafka-kraft) · 26.11.16
 - [AI 시대에 사이드 프로젝트를 한다는 것](https://www.youngsu5582.today/posts/side-project-of-ai-era) · 26.11.14
-- [우아콘 2026 을 다녀오고](https://www.youngsu5582.today/posts/woowacon-2026-reflections) · 26.11.08
 
 **Recent Notes**
 - [well-known 과 oauth authorization server](https://www.youngsu5582.today/notes/well-known) · http, auth · 26.11.18
