@@ -27,6 +27,6 @@ AI 로 빨라질수록, 코드를 판단하는 눈이 더 중요해진다고 생
 - [AI 시대에 사이드 프로젝트를 한다는 것](https://www.youngsu5582.today/posts/side-project-of-ai-era) · 26.11.14
 
 **Recent Notes**
+- [TLS - Handshake, 데이터 전송](https://www.youngsu5582.today/notes/tls-handshake) · tls, handshake · 26.11.23
 - [well-known 과 oauth authorization server](https://www.youngsu5582.today/notes/well-known) · http, auth · 26.11.18
 - [Github 규칙 검사가 도중 추가될 때 동작하는 방식](https://www.youngsu5582.today/notes/github-rule-check) · github, repository-rules · 26.11.16
-- [Vercel Fluid Active CPU & Prefetch](https://www.youngsu5582.today/notes/vercel-cpu-and-prefetch) · vercel, fluid-cpu · 26.11.15
